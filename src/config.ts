@@ -40,6 +40,8 @@ export function loadConfig(env: NodeJS.ProcessEnv = process.env): AppConfig {
     bootstrapNotify: toBoolean(env.BOOTSTRAP_NOTIFY),
     statePath: env.STATE_PATH?.trim() || "data/state.json",
     publicStatusPath: env.PUBLIC_STATUS_PATH?.trim() || undefined,
+    gmailUser: env.GMAIL_USER?.trim(),
+    gmailAppPassword: env.GMAIL_APP_PASSWORD?.replace(/\s/g, ""),
     resendApiKey: env.RESEND_API_KEY?.trim(),
     emailFrom: env.EMAIL_FROM?.trim(),
     emailTo: splitList(env.EMAIL_TO),
@@ -62,12 +64,12 @@ export function validateConfig(
     errors.push("X_USERNAME must be a valid X handle.");
   }
 
-  const emailPartiallyConfigured =
-    Boolean(config.resendApiKey || config.emailFrom || config.emailTo.length) &&
-    !(config.resendApiKey && config.emailFrom && config.emailTo.length);
-  if (emailPartiallyConfigured) {
-    errors.push("Email requires RESEND_API_KEY, EMAIL_FROM, and EMAIL_TO.");
-  }
+  const gmailSelected = Boolean(config.gmailUser || config.gmailAppPassword);
+  if (gmailSelected && !(config.gmailUser && config.gmailAppPassword && config.emailTo.length))
+    errors.push("Gmail requires GMAIL_USER, GMAIL_APP_PASSWORD, and EMAIL_TO.");
+  if (!gmailSelected && Boolean(config.resendApiKey || config.emailFrom || config.emailTo.length) &&
+      !(config.resendApiKey && config.emailFrom && config.emailTo.length))
+    errors.push("Resend requires RESEND_API_KEY, EMAIL_FROM, and EMAIL_TO.");
 
   const smsPartiallyConfigured =
     Boolean(

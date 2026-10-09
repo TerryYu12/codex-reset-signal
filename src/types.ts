@@ -113,6 +113,8 @@ export type AppConfig = {
   bootstrapNotify: boolean;
   statePath: string;
   publicStatusPath?: string;
+  gmailUser?: string;
+  gmailAppPassword?: string;
   resendApiKey?: string;
   emailFrom?: string;
   emailTo: string[];

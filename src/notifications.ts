@@ -1,3 +1,4 @@
+import { spawn } from "node:child_process";
 import { createHash, createHmac } from "node:crypto";
 import { appendFile } from "node:fs/promises";
 import type { AppConfig, PendingNotification, XPost } from "./types";
@@ -112,6 +113,30 @@ export function createTargets(
     });
   for (const recipient of config.emailTo)
     add("email", recipient, async (item) => {
+      if (config.gmailUser && config.gmailAppPassword) {
+        await new Promise<void>((resolve, reject) => {
+          const child = spawn("python3", ["scripts/send_gmail.py"], {
+            stdio: ["pipe", "pipe", "pipe"],
+          });
+          let stderr = "";
+          child.stderr.on("data", (chunk: Buffer) => {
+            stderr += chunk.toString().slice(0, 1000);
+          });
+          child.on("error", () => reject(new Error("Gmail sender could not start")));
+          child.on("close", (code) => code === 0
+            ? resolve()
+            : reject(new Error(`Gmail SMTP delivery failed (exit ${code}): ${stderr.slice(0, 500)}`)));
+          child.stdin.end(JSON.stringify({
+            user: config.gmailUser,
+            password: config.gmailAppPassword,
+            to: recipient,
+            subject: `Reset Signal: @${config.username}`,
+            text: renderText(item.post, item.events, config.timezone),
+            html: renderEmail(item.post, config.username, config.keyword, item.events, config.timezone),
+          }));
+        });
+        return;
+      }
       await request(
         "https://api.resend.com/emails",
         {
