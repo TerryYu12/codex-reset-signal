@@ -115,7 +115,10 @@ export function createTargets(
     add("email", recipient, async (item) => {
       if (config.gmailUser && config.gmailAppPassword) {
         await new Promise<void>((resolve, reject) => {
-          const child = spawn("python3", ["scripts/send_gmail.py"], {
+          const pythonBin =
+            process.env.PYTHON_BIN ||
+            (process.platform === "win32" ? "python" : "python3");
+          const child = spawn(pythonBin, ["scripts/send_gmail.py"], {
             stdio: ["pipe", "pipe", "pipe"],
           });
           let stderr = "";

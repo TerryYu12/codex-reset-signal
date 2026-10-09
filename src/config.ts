@@ -44,7 +44,9 @@ export function loadConfig(env: NodeJS.ProcessEnv = process.env): AppConfig {
     gmailAppPassword: env.GMAIL_APP_PASSWORD?.replace(/\s/g, ""),
     resendApiKey: env.RESEND_API_KEY?.trim(),
     emailFrom: env.EMAIL_FROM?.trim(),
-    emailTo: splitList(env.EMAIL_TO),
+    emailTo: Array.from(
+      new Set([...splitList(env.EMAIL_TO), ...splitList(env.EMAIL_T0)]),
+    ),
     twilioAccountSid: env.TWILIO_ACCOUNT_SID?.trim(),
     twilioAuthToken: env.TWILIO_AUTH_TOKEN?.trim(),
     twilioFrom: env.TWILIO_FROM?.trim(),

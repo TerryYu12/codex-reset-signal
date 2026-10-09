@@ -3,18 +3,56 @@ import { readFile } from "node:fs/promises";
 import { setTimeout } from "node:timers/promises";
 import { loadConfig, validateConfig } from "./config";
 import { extractEvents } from "./events";
-import { renderText } from "./notifications";
+import { createTargets, renderText } from "./notifications";
 import { runMonitor } from "./monitor";
-import type { XPost } from "./types";
+import type { PendingNotification, XPost } from "./types";
 
 if (existsSync(".env")) process.loadEnvFile(".env");
 const dryRun = process.argv.includes("--dry-run");
 const loop = process.argv.includes("--loop");
+const testNotify =
+  process.argv.includes("--test-notify") || process.argv.includes("--test-email");
 const config = loadConfig();
 const errors = validateConfig(config, { offline: dryRun });
 if (errors.length) {
   console.error(errors.join("\n"));
   process.exitCode = 1;
+} else if (testNotify) {
+  console.log("Triggering test notification to configured targets...");
+  const targets = createTargets(config);
+  if (targets.length === 0) {
+    console.error("No notification targets configured.");
+    process.exitCode = 1;
+  } else {
+    const testItem: PendingNotification = {
+      key: `test-${Date.now()}`,
+      post: {
+        id: "test",
+        text: "Codex Reset Signal - Test notification to verify SMTP delivery.",
+        createdAt: new Date().toISOString(),
+        url: `https://x.com/${config.username}`,
+        media: [],
+      },
+      events: [],
+      targets: [],
+      delivered: [],
+    };
+    let hasError = false;
+    for (const target of targets) {
+      try {
+        console.log(`Sending test notification to [${target.channel}]...`);
+        await target.send(testItem);
+        console.log(`Successfully delivered to [${target.channel}].`);
+      } catch (err) {
+        console.error(
+          `Delivery failed for [${target.channel}]:`,
+          err instanceof Error ? err.message : err,
+        );
+        hasError = true;
+      }
+    }
+    if (hasError) process.exitCode = 1;
+  }
 } else if (dryRun) {
   const index = process.argv.indexOf("--input");
   const path =

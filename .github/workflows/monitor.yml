@@ -2,6 +2,12 @@ name: Monitor X for reset
 
 on:
   workflow_dispatch:
+    inputs:
+      test_notify:
+        description: "Send a test notification to verify delivery (Gmail SMTP)"
+        required: false
+        type: boolean
+        default: false
   schedule:
     - cron: "2,7,12,17,22,27,32,37,42,47,52,57 * * * *"
 
@@ -39,7 +45,8 @@ jobs:
       GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
       RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
       EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
-      EMAIL_TO: ${{ secrets.EMAIL_TO }}
+      EMAIL_TO: ${{ secrets.EMAIL_TO || secrets.EMAIL_T0 }}
+      EMAIL_T0: ${{ secrets.EMAIL_T0 }}
       TWILIO_ACCOUNT_SID: ${{ secrets.TWILIO_ACCOUNT_SID }}
       TWILIO_AUTH_TOKEN: ${{ secrets.TWILIO_AUTH_TOKEN }}
       TWILIO_FROM: ${{ secrets.TWILIO_FROM }}
@@ -62,9 +69,23 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - name: Verify notification secrets configuration
+        run: |
+          node -e '
+            console.log("Notification secrets presence check (boolean only):");
+            console.log("  GMAIL_USER:", Boolean(process.env.GMAIL_USER));
+            console.log("  GMAIL_APP_PASSWORD:", Boolean(process.env.GMAIL_APP_PASSWORD));
+            console.log("  EMAIL_TO:", Boolean(process.env.EMAIL_TO));
+            console.log("  EMAIL_T0:", Boolean(process.env.EMAIL_T0));
+          '
       - name: Run monitor
         id: monitor
-        run: npm run monitor
+        run: |
+          if [ "${{ github.event.inputs.test_notify }}" = "true" ]; then
+            npm run monitor -- --test-notify
+          else
+            npm run monitor
+          fi
       - name: Publish GitHub Actions summary
         if: always() && steps.monitor.outcome != 'skipped'
         run: node scripts/actions-summary.mjs
