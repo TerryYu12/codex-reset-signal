@@ -2,13 +2,69 @@
   "version": 2,
   "username": "thsottiaux",
   "keyword": "reset",
-  "userId": null,
-  "sinceId": null,
-  "lastCheckedAt": null,
-  "lastSuccessAt": null,
-  "lastRunStatus": "waiting-for-first-run",
-  "postsScanned": 0,
-  "matches": [],
+  "userId": "1953337039510003712",
+  "sinceId": "2108428560822424062",
+  "lastCheckedAt": "2026-10-09T15:11:23.456Z",
+  "lastSuccessAt": "2026-10-09T15:11:23.456Z",
+  "lastRunStatus": "bootstrapped",
+  "postsScanned": 20,
+  "matches": [
+    {
+      "version": "ecc7339da4eebb3dc39327664289521ad6dfb66f2129c71a7e50119a4ced0557",
+      "id": "2107913674593644711",
+      "canonicalId": "2107913674593644711",
+      "text": "Day 3/\n\nThe big one is GPT-6 in Chat, but today is also a little celebration day with a new high of 40M active users across Codex and ChatGPT Work.\n\nLoading a banked reset in everyone's paid accounts. See you again tomorrow!",
+      "createdAt": "2026-10-07T19:19:17.000Z",
+      "url": "https://x.com/thsottiaux/status/2107913674593644711",
+      "media": [],
+      "detectedAt": "2026-10-09T15:11:23.456Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Loading a banked reset in everyone's paid accounts",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Loading a banked reset in everyone's paid accounts",
+            "note": "原文没有可确定的时间"
+          }
+        }
+      ],
+      "channels": []
+    }
+  ],
   "outbox": [],
-  "seen": {}
+  "seen": {
+    "2107700139066593612": "9b643e77335a315497c969ee5ccf8004d17241b664cc70ffb5fb5234b3710ccf",
+    "2107912709715132482": "a025218b1fd504fff2d0f4f9e459f0f983b4d4adaa22af7e1ccb02c12852c384",
+    "2107913674593644711": "ecc7339da4eebb3dc39327664289521ad6dfb66f2129c71a7e50119a4ced0557",
+    "2107913738791596286": "ab8bcef0ede211af9d7d603a283cd8df1f301e3c5c5bc7c1cf1f5cd9952ea254",
+    "2108014292910113006": "1e404e311460340880dd06d1ab5327ac60f255236e4ceaba5b360147c35ffafe",
+    "2108017418136330678": "45e2bce194f6726a37efa334a5d7f59541ed9b84c3c78503b715f9c8292929a9",
+    "2108040921044639779": "58d6712253d9c04226ead097962fba57a4f81a3de93db7262bd48f57b2ac8290",
+    "2108046065857679614": "fa93b5b91418b1ea571586aeadf08d047b9dcb89c0126dac6dc73fbc3707ec17",
+    "2108046671309685096": "df0f46cb96fe67544ad94675eb0ae1aba934f68b7afe5c81991d83d4636c88b2",
+    "2108064454831427702": "9db3edec0a34c01aa7a6e270cacdc8cc0437bb85de32eda4cae1e359d9d8f9ef",
+    "2108064684549230815": "0876462888bcc6f6052f670ef0ab8c91e2f94e208b1657aff1ab44b267b24eb5",
+    "2108067119980319111": "3099f52e705369b47ab7319a736c9d8f81829d7298e62f7122df94997932bf4b",
+    "2108080036725354918": "452511710f9edc43a9ade2aaea380bce441e0dc53fe39c3e5965b308788aac91",
+    "2108084615349170480": "204eb882b48d1c8c9b8f41ab713c5fe88580cc581ba5cd4f3131e0d82df0f5a3",
+    "2108086116683526498": "8f443877e0b832730267bf9a1b416886bb3928a9f838f653a2454df512a686eb",
+    "2108199520836485472": "a3e24d3bfdc5b5f64fb1bb6ad119d9efbf0c70401b59869e7d4ae215d45629a4",
+    "2108275041276420573": "34670360218fff409e9e91accca3831b20440a7426fe839fc6ed04fa2f94da04",
+    "2108349826727588000": "36e8fac2ba90f7a79588626457241129a89e4fb42eca6bedbab6e2a19df96adb",
+    "2108391597834727636": "3a0d851579acc9979c8eaea9f0cc6bdc2f33213da60402e296ca903d2cc32522",
+    "2108428560822424062": "342c79139ce74116a4289677099a4d72e1ff949a40feb5422075afea91453057"
+  },
+  "latestObservedPost": {
+    "id": "2108428560822424062",
+    "canonicalId": "2108428560822424062",
+    "text": "@SimonasLTU1 This was all client-side + network for playground only. Shipped optimized rendering logic that can keep up with ultrafast, try again",
+    "createdAt": "2026-10-09T05:25:16.000Z",
+    "url": "https://x.com/thsottiaux/status/2108428560822424062",
+    "media": []
+  },
+  "eventParserVersion": 5
 }
