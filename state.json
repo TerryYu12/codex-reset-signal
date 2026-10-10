@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2108650026671231468",
-  "lastCheckedAt": "2026-10-10T02:45:33.487Z",
-  "lastSuccessAt": "2026-10-10T02:45:33.487Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 23,
+  "sinceId": "2108840070648397933",
+  "lastCheckedAt": "2026-10-10T09:06:47.614Z",
+  "lastSuccessAt": "2026-10-10T09:06:47.614Z",
+  "lastRunStatus": "checked-6-posts",
+  "postsScanned": 29,
   "matches": [
     {
       "version": "ecc7339da4eebb3dc39327664289521ad6dfb66f2129c71a7e50119a4ced0557",
@@ -58,14 +58,20 @@
     "2108428560822424062": "342c79139ce74116a4289677099a4d72e1ff949a40feb5422075afea91453057",
     "2108645667451318747": "f0d1963639231afa93698eada3be2b2f142b82127d951dc51143256024bff3fc",
     "2108646052178092403": "c810709c899e5d8c18e5888da1c90239e258f9a935704703a433443470427a9e",
-    "2108650026671231468": "0f338b4e5abadb0eb55bd833f63616facc2a5e4795294f17f5d19f7e7b6ed454"
+    "2108650026671231468": "0f338b4e5abadb0eb55bd833f63616facc2a5e4795294f17f5d19f7e7b6ed454",
+    "2108773703064657936": "2e470e9346f00429e9762876400e97682cf09d2f78afb705c991be174fab4eaa",
+    "2108773866281795814": "5a930d34bcb9334de0a6cbd390696c5c891c1008ce1487b2af92da5f2ecce03b",
+    "2108777962053292398": "45c1b6641c012f5ab3239848307cf63054c3e7d4522ee523505be550bff74fd4",
+    "2108778939057664357": "34dfaa945d977b79f85e644d03ead935c0aa4978b010f343e4b68522918425f1",
+    "2108780620583403652": "1101e00ab631025e861aeb94632ba45eeee7646e8eb5df14da55316d5a7218a8",
+    "2108840070648397933": "cff8b6c32e3ba78930fa3b3ffbe4799cb558425af81558c3c3cc035d8e1a132b"
   },
   "latestObservedPost": {
-    "id": "2108650026671231468",
-    "canonicalId": "2108650026671231468",
-    "text": "Send feedback to @keyanzhang and @sharifshameem !",
-    "createdAt": "2026-10-09T20:05:17.000Z",
-    "url": "https://x.com/thsottiaux/status/2108650026671231468",
+    "id": "2108840070648397933",
+    "canonicalId": "2108840070648397933",
+    "text": "Blinked and it’s already Saturday",
+    "createdAt": "2026-10-10T08:40:27.000Z",
+    "url": "https://x.com/thsottiaux/status/2108840070648397933",
     "media": []
   },
   "eventParserVersion": 5
