@@ -3,12 +3,70 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2108852361536098422",
-  "lastCheckedAt": "2026-10-10T19:24:03.528Z",
-  "lastSuccessAt": "2026-10-10T19:24:03.528Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 30,
+  "sinceId": "2109045392684032299",
+  "lastCheckedAt": "2026-10-10T22:48:41.051Z",
+  "lastSuccessAt": "2026-10-10T22:48:41.051Z",
+  "lastRunStatus": "checked-3-posts",
+  "postsScanned": 33,
   "matches": [
+    {
+      "version": "deea556e60505c6fff4fc2857a2dc967dd803fbd6102c60704a5bd92ed4e822a",
+      "id": "2109045392684032299",
+      "canonicalId": "2109045392684032299",
+      "text": "Global reset by EOD. May the tokens do good things for you.",
+      "createdAt": "2026-10-10T22:16:20.000Z",
+      "url": "https://x.com/thsottiaux/status/2109045392684032299",
+      "media": [],
+      "detectedAt": "2026-10-10T22:48:41.051Z",
+      "events": [
+        {
+          "type": "reset",
+          "status": "announced",
+          "evidence": "Global reset by EOD",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Global reset by EOD",
+            "note": "原文没有可确定的时间"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-10-10T22:48:42.300Z"
+    },
+    {
+      "version": "e3dcd7beacba2d69639523394e1e5b92bbdd64ad09cef8ece8716a7cba867c6b",
+      "id": "2109045220411351517",
+      "canonicalId": "2109045220411351517",
+      "text": "Day 6/ Reset",
+      "createdAt": "2026-10-10T22:15:39.000Z",
+      "url": "https://x.com/thsottiaux/status/2109045220411351517",
+      "media": [],
+      "detectedAt": "2026-10-10T22:48:41.027Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Day 6/ Reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Day 6/ Reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-10-10T22:48:41.055Z"
+    },
     {
       "version": "ecc7339da4eebb3dc39327664289521ad6dfb66f2129c71a7e50119a4ced0557",
       "id": "2107913674593644711",
@@ -65,14 +123,17 @@
     "2108778939057664357": "34dfaa945d977b79f85e644d03ead935c0aa4978b010f343e4b68522918425f1",
     "2108780620583403652": "1101e00ab631025e861aeb94632ba45eeee7646e8eb5df14da55316d5a7218a8",
     "2108840070648397933": "cff8b6c32e3ba78930fa3b3ffbe4799cb558425af81558c3c3cc035d8e1a132b",
-    "2108852361536098422": "389e519b66b5085c6b65e6c613cdb139c2458d58dedd72b7fde2e46e555e55c1"
+    "2108852361536098422": "389e519b66b5085c6b65e6c613cdb139c2458d58dedd72b7fde2e46e555e55c1",
+    "2109021594576470290": "b0381c45a76ebc20ba59345a81216578cdd6c78be1cbebd43a6fecd20a573abe",
+    "2109045220411351517": "e3dcd7beacba2d69639523394e1e5b92bbdd64ad09cef8ece8716a7cba867c6b",
+    "2109045392684032299": "deea556e60505c6fff4fc2857a2dc967dd803fbd6102c60704a5bd92ed4e822a"
   },
   "latestObservedPost": {
-    "id": "2108852361536098422",
-    "canonicalId": "2108852361536098422",
-    "text": "@theo @LukeParkerDev Me too",
-    "createdAt": "2026-10-10T09:29:18.000Z",
-    "url": "https://x.com/thsottiaux/status/2108852361536098422",
+    "id": "2109045392684032299",
+    "canonicalId": "2109045392684032299",
+    "text": "Global reset by EOD. May the tokens do good things for you.",
+    "createdAt": "2026-10-10T22:16:20.000Z",
+    "url": "https://x.com/thsottiaux/status/2109045392684032299",
     "media": []
   },
   "eventParserVersion": 5
