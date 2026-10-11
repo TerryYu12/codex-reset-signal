@@ -1,39 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-11T01:20:57.797Z",
+  "updatedAt": "2026-10-11T07:26:22.645Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-11T01:20:56.562Z",
-    "lastSuccessAt": "2026-10-11T01:20:56.562Z",
+    "lastCheckedAt": "2026-10-11T07:26:21.795Z",
+    "lastSuccessAt": "2026-10-11T07:26:21.795Z",
     "lastRunStatus": "checked-5-posts"
   },
   "latestObservedPost": {
-    "id": "2109091159784198475",
-    "text": "@ziwenxu_ 1M dots running and doing things for their users",
-    "url": "https://x.com/thsottiaux/status/2109091159784198475",
-    "postCreatedAt": "2026-10-11T01:18:12.000Z"
+    "id": "2109152716954222849",
+    "text": "Pro users, would you rather have",
+    "url": "https://x.com/thsottiaux/status/2109152716954222849",
+    "postCreatedAt": "2026-10-11T05:22:48.000Z"
   },
   "latest": {
     "reset": {
-      "version": "abca362ee0544431ccd2bfa33bf8f109ce8b25e2e2278b68f226033103c32626",
-      "id": "2109090080497508356",
-      "text": "The day we reach perfection it will be resets from there onwards",
-      "url": "https://x.com/thsottiaux/status/2109090080497508356",
-      "postCreatedAt": "2026-10-11T01:13:54.000Z",
-      "detectedAt": "2026-10-11T01:20:56.562Z",
+      "version": "275b46f975c69285658a1df2115587cb1c7f9d972ad251252b4809955f2079b0",
+      "id": "2109132167112782291",
+      "text": "Put the reset in the bag. All propagated.",
+      "url": "https://x.com/thsottiaux/status/2109132167112782291",
+      "postCreatedAt": "2026-10-11T04:01:09.000Z",
+      "detectedAt": "2026-10-11T07:26:21.795Z",
       "events": [
         {
           "type": "reset",
-          "status": "scheduled",
-          "evidence": "The day we reach perfection it will be resets from there onwards",
+          "status": "announced",
+          "evidence": "Put the reset in the bag",
           "time": {
-            "kind": "date",
-            "start": "2026-10-11T07:13:54.000Z",
-            "end": "2026-10-12T07:13:54.000Z",
-            "evidence": "The day",
-            "note": "按配置假设原文时区为 America/Los_Angeles"
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Put the reset in the bag",
+            "note": "原文没有可确定的时间"
           }
         }
       ],
@@ -69,6 +69,32 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "275b46f975c69285658a1df2115587cb1c7f9d972ad251252b4809955f2079b0",
+      "id": "2109132167112782291",
+      "text": "Put the reset in the bag. All propagated.",
+      "url": "https://x.com/thsottiaux/status/2109132167112782291",
+      "postCreatedAt": "2026-10-11T04:01:09.000Z",
+      "detectedAt": "2026-10-11T07:26:21.795Z",
+      "events": [
+        {
+          "type": "reset",
+          "status": "announced",
+          "evidence": "Put the reset in the bag",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Put the reset in the bag",
+            "note": "原文没有可确定的时间"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "abca362ee0544431ccd2bfa33bf8f109ce8b25e2e2278b68f226033103c32626",
       "id": "2109090080497508356",

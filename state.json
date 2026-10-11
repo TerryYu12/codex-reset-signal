@@ -3,16 +3,44 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2109091159784198475",
-  "lastCheckedAt": "2026-10-11T01:20:56.562Z",
-  "lastSuccessAt": "2026-10-11T01:20:56.562Z",
+  "sinceId": "2109152716954222849",
+  "lastCheckedAt": "2026-10-11T07:26:21.795Z",
+  "lastSuccessAt": "2026-10-11T07:26:21.795Z",
   "lastRunStatus": "checked-5-posts",
-  "postsScanned": 38,
+  "postsScanned": 43,
   "matches": [
+    {
+      "version": "275b46f975c69285658a1df2115587cb1c7f9d972ad251252b4809955f2079b0",
+      "id": "2109132167112782291",
+      "canonicalId": "2109132167112782291",
+      "text": "Put the reset in the bag. All propagated.",
+      "createdAt": "2026-10-11T04:01:09.000Z",
+      "url": "https://x.com/thsottiaux/status/2109132167112782291",
+      "media": [],
+      "detectedAt": "2026-10-11T07:26:21.795Z",
+      "events": [
+        {
+          "type": "reset",
+          "status": "announced",
+          "evidence": "Put the reset in the bag",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Put the reset in the bag",
+            "note": "原文没有可确定的时间"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-10-11T07:26:21.799Z"
+    },
     {
       "version": "abca362ee0544431ccd2bfa33bf8f109ce8b25e2e2278b68f226033103c32626",
       "id": "2109090080497508356",
-      "canonicalId": "2109090080497508356",
       "text": "The day we reach perfection it will be resets from there onwards",
       "createdAt": "2026-10-11T01:13:54.000Z",
       "url": "https://x.com/thsottiaux/status/2109090080497508356",
@@ -32,11 +60,11 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-11T01:20:56.566Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-10-11T01:20:56.566Z"
+      ]
     },
     {
       "version": "deea556e60505c6fff4fc2857a2dc967dd803fbd6102c60704a5bd92ed4e822a",
@@ -158,14 +186,19 @@
     "2109084804625158541": "239a2b915fc5e863ccdb867745917df0408c0ddebfaa4c58b15a8cf6c2345d00",
     "2109089556675137886": "7e361f8097104f2aacb13bd10ea4866888e75449251ade54b1dc52fd81f1a259",
     "2109090080497508356": "abca362ee0544431ccd2bfa33bf8f109ce8b25e2e2278b68f226033103c32626",
-    "2109091159784198475": "56a5ca07c41b4daf9c3fd972825e759c8406d06c303f0e2902f15a2d8606c807"
+    "2109091159784198475": "56a5ca07c41b4daf9c3fd972825e759c8406d06c303f0e2902f15a2d8606c807",
+    "2109092087501332816": "171ab31828d5d640f9dc577fe4a2dbb900ee9e4b063def590388760fb3bf6142",
+    "2109132167112782291": "275b46f975c69285658a1df2115587cb1c7f9d972ad251252b4809955f2079b0",
+    "2109135750054957556": "c8e19a51bcc59384a8be4cd3c6b0df5d73dcff1e8e958858c7af72c5ec18a82f",
+    "2109142061014466866": "abebd6a6cb3724884777977d674b7d81bd1ac4f0c8904765b0aaf3223e3eaca2",
+    "2109152716954222849": "f3bf29034a4eef82246ab778d2783c196c697f83c5e8c10f6c44561a99c0e232"
   },
   "latestObservedPost": {
-    "id": "2109091159784198475",
-    "canonicalId": "2109091159784198475",
-    "text": "@ziwenxu_ 1M dots running and doing things for their users",
-    "createdAt": "2026-10-11T01:18:12.000Z",
-    "url": "https://x.com/thsottiaux/status/2109091159784198475",
+    "id": "2109152716954222849",
+    "canonicalId": "2109152716954222849",
+    "text": "Pro users, would you rather have",
+    "createdAt": "2026-10-11T05:22:48.000Z",
+    "url": "https://x.com/thsottiaux/status/2109152716954222849",
     "media": []
   },
   "eventParserVersion": 5
