@@ -3,16 +3,44 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2109045392684032299",
-  "lastCheckedAt": "2026-10-10T22:48:41.051Z",
-  "lastSuccessAt": "2026-10-10T22:48:41.051Z",
-  "lastRunStatus": "checked-3-posts",
-  "postsScanned": 33,
+  "sinceId": "2109091159784198475",
+  "lastCheckedAt": "2026-10-11T01:20:56.562Z",
+  "lastSuccessAt": "2026-10-11T01:20:56.562Z",
+  "lastRunStatus": "checked-5-posts",
+  "postsScanned": 38,
   "matches": [
+    {
+      "version": "abca362ee0544431ccd2bfa33bf8f109ce8b25e2e2278b68f226033103c32626",
+      "id": "2109090080497508356",
+      "canonicalId": "2109090080497508356",
+      "text": "The day we reach perfection it will be resets from there onwards",
+      "createdAt": "2026-10-11T01:13:54.000Z",
+      "url": "https://x.com/thsottiaux/status/2109090080497508356",
+      "media": [],
+      "detectedAt": "2026-10-11T01:20:56.562Z",
+      "events": [
+        {
+          "type": "reset",
+          "status": "scheduled",
+          "evidence": "The day we reach perfection it will be resets from there onwards",
+          "time": {
+            "kind": "date",
+            "start": "2026-10-11T07:13:54.000Z",
+            "end": "2026-10-12T07:13:54.000Z",
+            "evidence": "The day",
+            "note": "按配置假设原文时区为 America/Los_Angeles"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-10-11T01:20:56.566Z"
+    },
     {
       "version": "deea556e60505c6fff4fc2857a2dc967dd803fbd6102c60704a5bd92ed4e822a",
       "id": "2109045392684032299",
-      "canonicalId": "2109045392684032299",
       "text": "Global reset by EOD. May the tokens do good things for you.",
       "createdAt": "2026-10-10T22:16:20.000Z",
       "url": "https://x.com/thsottiaux/status/2109045392684032299",
@@ -32,16 +60,15 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-10T22:48:42.300Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-10-10T22:48:42.300Z"
+      ]
     },
     {
       "version": "e3dcd7beacba2d69639523394e1e5b92bbdd64ad09cef8ece8716a7cba867c6b",
       "id": "2109045220411351517",
-      "canonicalId": "2109045220411351517",
       "text": "Day 6/ Reset",
       "createdAt": "2026-10-10T22:15:39.000Z",
       "url": "https://x.com/thsottiaux/status/2109045220411351517",
@@ -61,11 +88,11 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-10T22:48:41.055Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-10-10T22:48:41.055Z"
+      ]
     },
     {
       "version": "ecc7339da4eebb3dc39327664289521ad6dfb66f2129c71a7e50119a4ced0557",
@@ -126,14 +153,19 @@
     "2108852361536098422": "389e519b66b5085c6b65e6c613cdb139c2458d58dedd72b7fde2e46e555e55c1",
     "2109021594576470290": "b0381c45a76ebc20ba59345a81216578cdd6c78be1cbebd43a6fecd20a573abe",
     "2109045220411351517": "e3dcd7beacba2d69639523394e1e5b92bbdd64ad09cef8ece8716a7cba867c6b",
-    "2109045392684032299": "deea556e60505c6fff4fc2857a2dc967dd803fbd6102c60704a5bd92ed4e822a"
+    "2109045392684032299": "deea556e60505c6fff4fc2857a2dc967dd803fbd6102c60704a5bd92ed4e822a",
+    "2109072811113488768": "1dec58670a99465acf4ea097f084bdd6a7bb92a7286880ed02479d204288effa",
+    "2109084804625158541": "239a2b915fc5e863ccdb867745917df0408c0ddebfaa4c58b15a8cf6c2345d00",
+    "2109089556675137886": "7e361f8097104f2aacb13bd10ea4866888e75449251ade54b1dc52fd81f1a259",
+    "2109090080497508356": "abca362ee0544431ccd2bfa33bf8f109ce8b25e2e2278b68f226033103c32626",
+    "2109091159784198475": "56a5ca07c41b4daf9c3fd972825e759c8406d06c303f0e2902f15a2d8606c807"
   },
   "latestObservedPost": {
-    "id": "2109045392684032299",
-    "canonicalId": "2109045392684032299",
-    "text": "Global reset by EOD. May the tokens do good things for you.",
-    "createdAt": "2026-10-10T22:16:20.000Z",
-    "url": "https://x.com/thsottiaux/status/2109045392684032299",
+    "id": "2109091159784198475",
+    "canonicalId": "2109091159784198475",
+    "text": "@ziwenxu_ 1M dots running and doing things for their users",
+    "createdAt": "2026-10-11T01:18:12.000Z",
+    "url": "https://x.com/thsottiaux/status/2109091159784198475",
     "media": []
   },
   "eventParserVersion": 5

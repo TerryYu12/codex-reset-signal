@@ -1,39 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T22:48:43.706Z",
+  "updatedAt": "2026-10-11T01:20:57.797Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-10T22:48:41.051Z",
-    "lastSuccessAt": "2026-10-10T22:48:41.051Z",
-    "lastRunStatus": "checked-3-posts"
+    "lastCheckedAt": "2026-10-11T01:20:56.562Z",
+    "lastSuccessAt": "2026-10-11T01:20:56.562Z",
+    "lastRunStatus": "checked-5-posts"
   },
   "latestObservedPost": {
-    "id": "2109045392684032299",
-    "text": "Global reset by EOD. May the tokens do good things for you.",
-    "url": "https://x.com/thsottiaux/status/2109045392684032299",
-    "postCreatedAt": "2026-10-10T22:16:20.000Z"
+    "id": "2109091159784198475",
+    "text": "@ziwenxu_ 1M dots running and doing things for their users",
+    "url": "https://x.com/thsottiaux/status/2109091159784198475",
+    "postCreatedAt": "2026-10-11T01:18:12.000Z"
   },
   "latest": {
     "reset": {
-      "version": "deea556e60505c6fff4fc2857a2dc967dd803fbd6102c60704a5bd92ed4e822a",
-      "id": "2109045392684032299",
-      "text": "Global reset by EOD. May the tokens do good things for you.",
-      "url": "https://x.com/thsottiaux/status/2109045392684032299",
-      "postCreatedAt": "2026-10-10T22:16:20.000Z",
-      "detectedAt": "2026-10-10T22:48:41.051Z",
+      "version": "abca362ee0544431ccd2bfa33bf8f109ce8b25e2e2278b68f226033103c32626",
+      "id": "2109090080497508356",
+      "text": "The day we reach perfection it will be resets from there onwards",
+      "url": "https://x.com/thsottiaux/status/2109090080497508356",
+      "postCreatedAt": "2026-10-11T01:13:54.000Z",
+      "detectedAt": "2026-10-11T01:20:56.562Z",
       "events": [
         {
           "type": "reset",
-          "status": "announced",
-          "evidence": "Global reset by EOD",
+          "status": "scheduled",
+          "evidence": "The day we reach perfection it will be resets from there onwards",
           "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Global reset by EOD",
-            "note": "原文没有可确定的时间"
+            "kind": "date",
+            "start": "2026-10-11T07:13:54.000Z",
+            "end": "2026-10-12T07:13:54.000Z",
+            "evidence": "The day",
+            "note": "按配置假设原文时区为 America/Los_Angeles"
           }
         }
       ],
@@ -69,6 +69,32 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "abca362ee0544431ccd2bfa33bf8f109ce8b25e2e2278b68f226033103c32626",
+      "id": "2109090080497508356",
+      "text": "The day we reach perfection it will be resets from there onwards",
+      "url": "https://x.com/thsottiaux/status/2109090080497508356",
+      "postCreatedAt": "2026-10-11T01:13:54.000Z",
+      "detectedAt": "2026-10-11T01:20:56.562Z",
+      "events": [
+        {
+          "type": "reset",
+          "status": "scheduled",
+          "evidence": "The day we reach perfection it will be resets from there onwards",
+          "time": {
+            "kind": "date",
+            "start": "2026-10-11T07:13:54.000Z",
+            "end": "2026-10-12T07:13:54.000Z",
+            "evidence": "The day",
+            "note": "按配置假设原文时区为 America/Los_Angeles"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "deea556e60505c6fff4fc2857a2dc967dd803fbd6102c60704a5bd92ed4e822a",
       "id": "2109045392684032299",
