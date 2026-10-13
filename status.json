@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12T18:02:50.707Z",
+  "updatedAt": "2026-10-13T00:33:57.331Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-12T18:02:50.703Z",
-    "lastSuccessAt": "2026-10-12T18:02:50.703Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-13T00:33:57.327Z",
+    "lastSuccessAt": "2026-10-13T00:33:57.327Z",
+    "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2109491524358795714",
-    "text": "@bobjones We tune these carefully",
-    "url": "https://x.com/thsottiaux/status/2109491524358795714",
-    "postCreatedAt": "2026-10-12T03:49:06.000Z"
+    "id": "2109778880341151901",
+    "text": "@steipete 250 tokens per *second* (TPS)!",
+    "url": "https://x.com/thsottiaux/status/2109778880341151901",
+    "postCreatedAt": "2026-10-12T22:50:57.000Z"
   },
   "latest": {
     "reset": {
