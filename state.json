@@ -3,12 +3,99 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2109778880341151901",
-  "lastCheckedAt": "2026-10-13T00:33:57.327Z",
-  "lastSuccessAt": "2026-10-13T00:33:57.327Z",
-  "lastRunStatus": "checked-2-posts",
-  "postsScanned": 52,
+  "sinceId": "2109892247580000595",
+  "lastCheckedAt": "2026-10-13T07:04:24.193Z",
+  "lastSuccessAt": "2026-10-13T07:04:24.193Z",
+  "lastRunStatus": "checked-12-posts",
+  "postsScanned": 64,
   "matches": [
+    {
+      "version": "0c2365f179f9ebd9526f6652d6d5b41cd355a42feb13a8dbdee1544d6ad1da78",
+      "id": "2109873287853707513",
+      "canonicalId": "2109873287853707513",
+      "text": "What would you like with your side of reset? It's done.",
+      "createdAt": "2026-10-13T05:06:06.000Z",
+      "url": "https://x.com/thsottiaux/status/2109873287853707513",
+      "media": [],
+      "detectedAt": "2026-10-13T07:04:24.193Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "What would you like with your side of reset? It's done",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "What would you like with your side of reset? It's done",
+            "note": "讨论、请求、弱判断或否定，不代表已确认的重置"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-10-13T07:04:28.312Z"
+    },
+    {
+      "version": "b67fd59b479a6010d7bf14dcd27b877ed837898b135d1997697b6e882227239e",
+      "id": "2109812360596865224",
+      "canonicalId": "2109812360596865224",
+      "text": "Global reset landing by EOD PST time. Enjoy",
+      "createdAt": "2026-10-13T01:03:59.000Z",
+      "url": "https://x.com/thsottiaux/status/2109812360596865224",
+      "media": [],
+      "detectedAt": "2026-10-13T07:04:24.193Z",
+      "events": [
+        {
+          "type": "reset",
+          "status": "announced",
+          "evidence": "Global reset landing by EOD PST time",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Global reset landing by EOD PST time",
+            "note": "原文没有可确定的时间"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-10-13T07:04:26.672Z"
+    },
+    {
+      "version": "ca823a56be82e9b5268af58b19074f5b9beef0c85b5ef480343d9f8c60ef16c8",
+      "id": "2109812216212099456",
+      "canonicalId": "2109812216212099456",
+      "text": "Day 8/ Reset",
+      "createdAt": "2026-10-13T01:03:25.000Z",
+      "url": "https://x.com/thsottiaux/status/2109812216212099456",
+      "media": [],
+      "detectedAt": "2026-10-13T07:04:24.171Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Day 8/ Reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Day 8/ Reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-10-13T07:04:24.197Z"
+    },
     {
       "version": "275b46f975c69285658a1df2115587cb1c7f9d972ad251252b4809955f2079b0",
       "id": "2109132167112782291",
@@ -199,14 +286,26 @@
     "2109491121441402912": "35e0a87b175146fd46c567f5d2e47acdab7afb53fe0e90cbc3322c552c4e1928",
     "2109491524358795714": "dd68bbeb7d9d4d7c1d93b8859211924ab96529ebbb4344e25ea2be442d1ee0c0",
     "2109730998867112161": "1a24fbbbfee5909271383236c3372f1e1972b1602c6118485be98a71b6da3561",
-    "2109778880341151901": "1c3268291594db849e154768ef424f5831293f3ce0ff74a169e71780edae7ad7"
+    "2109778880341151901": "1c3268291594db849e154768ef424f5831293f3ce0ff74a169e71780edae7ad7",
+    "2109812216212099456": "ca823a56be82e9b5268af58b19074f5b9beef0c85b5ef480343d9f8c60ef16c8",
+    "2109812360596865224": "b67fd59b479a6010d7bf14dcd27b877ed837898b135d1997697b6e882227239e",
+    "2109819027912798611": "e1ea005ab8f0971a9a2456170c9207ac582a178d91f780c912d2302f5f028960",
+    "2109819517325205735": "71626e1219c52fbdf15db616177cd84565c76027aebd3a5120b90f5d976a3ea9",
+    "2109831908620390553": "6361a8106e551754bf5c06e6b2d38dc9e36ed040aaefed75efe2e96f2e85dd81",
+    "2109832216029352391": "e7c85ef3f7362337b38c03147fd1646e8abea8d60cf5ecf75dadc9c767c70f02",
+    "2109832541956194798": "400e9c3e611504b52b43faef730e4ea8f9885d2ac079683bad3ab293ce207a6e",
+    "2109864370465628584": "934f279b4e45c7837a43b9dea54892137c399d861dde7426523ff8ca169c9a65",
+    "2109865627628507222": "d25691d13be3699516346c3a179d68173a55352978239cdfd9433e97f7f51832",
+    "2109873287853707513": "0c2365f179f9ebd9526f6652d6d5b41cd355a42feb13a8dbdee1544d6ad1da78",
+    "2109873307722121591": "fe1678fa963750e9b262732c0a3e599c9ef5cf16697a4dc12848d387a1258389",
+    "2109892247580000595": "9ec684f1bc771ec2ed569308307348e25b287a006afaa8270650930947328856"
   },
   "latestObservedPost": {
-    "id": "2109778880341151901",
-    "canonicalId": "2109778880341151901",
-    "text": "@steipete 250 tokens per *second* (TPS)!",
-    "createdAt": "2026-10-12T22:50:57.000Z",
-    "url": "https://x.com/thsottiaux/status/2109778880341151901",
+    "id": "2109892247580000595",
+    "canonicalId": "2109892247580000595",
+    "text": "Good plans are simple. I have one that should result in significantly more usage for everyone. Hope to get it done soon.",
+    "createdAt": "2026-10-13T06:21:26.000Z",
+    "url": "https://x.com/thsottiaux/status/2109892247580000595",
     "media": []
   },
   "eventParserVersion": 5
