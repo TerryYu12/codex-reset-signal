@@ -1,4 +1,4 @@
-const DEFAULT_REPOSITORY = "AllenXiao95/codex-reset-signal";
+const DEFAULT_REPOSITORY = "TerryYu12/codex-reset-signal";
 const DEFAULT_WORKFLOW = "monitor.yml";
 const DEFAULT_REF = "main";
 
