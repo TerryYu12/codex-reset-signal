@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T04:57:21.202Z",
+  "updatedAt": "2026-10-15T05:02:15.364Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-15T04:57:20.351Z",
-    "lastSuccessAt": "2026-10-15T04:57:20.351Z",
-    "lastRunStatus": "checked-2-posts"
+    "lastCheckedAt": "2026-10-15T05:02:15.361Z",
+    "lastSuccessAt": "2026-10-15T05:02:15.361Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2110595554036400151",
-    "text": "Landing within the next 2 hours",
-    "url": "https://x.com/thsottiaux/status/2110595554036400151",
-    "postCreatedAt": "2026-10-15T04:56:07.000Z"
+    "id": "2110595987542868381",
+    "text": "@amorriscode @poteto @theo If you’re not a bit afraid of your army, it’s not a good army",
+    "url": "https://x.com/thsottiaux/status/2110595987542868381",
+    "postCreatedAt": "2026-10-15T04:57:51.000Z"
   },
   "latest": {
     "reset": {

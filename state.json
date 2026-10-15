@@ -3,16 +3,15 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2110595554036400151",
-  "lastCheckedAt": "2026-10-15T04:57:20.351Z",
-  "lastSuccessAt": "2026-10-15T04:57:20.351Z",
-  "lastRunStatus": "checked-2-posts",
-  "postsScanned": 72,
+  "sinceId": "2110595987542868381",
+  "lastCheckedAt": "2026-10-15T05:02:15.361Z",
+  "lastSuccessAt": "2026-10-15T05:02:15.361Z",
+  "lastRunStatus": "checked-1-posts",
+  "postsScanned": 73,
   "matches": [
     {
       "version": "26278fd8a9f9deb053233cc5114c40ba3cdd311bd6aa75bc2688d88afeb12443",
       "id": "2110595484180214059",
-      "canonicalId": "2110595484180214059",
       "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
       "createdAt": "2026-10-15T04:55:51.000Z",
       "url": "https://x.com/thsottiaux/status/2110595484180214059",
@@ -44,11 +43,11 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-15T04:57:20.355Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-10-15T04:57:20.355Z"
+      ]
     },
     {
       "version": "0c2365f179f9ebd9526f6652d6d5b41cd355a42feb13a8dbdee1544d6ad1da78",
@@ -344,14 +343,15 @@
     "2110589470911418414": "912d303446b8e66a7e657841ed31015a3d0af3dc4e6649f61f0e9b4335c9841e",
     "2110591392691159317": "e027ff75ceba8f60c5aa786d1f0b4d6cb7e4cdf48a215bcabdaff6aada25ba35",
     "2110595484180214059": "26278fd8a9f9deb053233cc5114c40ba3cdd311bd6aa75bc2688d88afeb12443",
-    "2110595554036400151": "73915993aa7b4ccdbe8f83fbbe3b1ad3aba37875b1ddd8301cf9e0a1eebdf2b0"
+    "2110595554036400151": "73915993aa7b4ccdbe8f83fbbe3b1ad3aba37875b1ddd8301cf9e0a1eebdf2b0",
+    "2110595987542868381": "bd69f639e6d4d9b1fb5a17b02b396c8c828ee0809385f585a29f7fb8cf7a5954"
   },
   "latestObservedPost": {
-    "id": "2110595554036400151",
-    "canonicalId": "2110595554036400151",
-    "text": "Landing within the next 2 hours",
-    "createdAt": "2026-10-15T04:56:07.000Z",
-    "url": "https://x.com/thsottiaux/status/2110595554036400151",
+    "id": "2110595987542868381",
+    "canonicalId": "2110595987542868381",
+    "text": "@amorriscode @poteto @theo If you’re not a bit afraid of your army, it’s not a good army",
+    "createdAt": "2026-10-15T04:57:51.000Z",
+    "url": "https://x.com/thsottiaux/status/2110595987542868381",
     "media": []
   },
   "eventParserVersion": 5
