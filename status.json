@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T06:02:22.273Z",
+  "updatedAt": "2026-10-15T06:07:15.108Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-15T06:02:22.226Z",
-    "lastSuccessAt": "2026-10-15T06:02:22.226Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-15T06:07:15.104Z",
+    "lastSuccessAt": "2026-10-15T06:07:15.104Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2110595987542868381",
-    "text": "@amorriscode @poteto @theo If you’re not a bit afraid of your army, it’s not a good army",
-    "url": "https://x.com/thsottiaux/status/2110595987542868381",
-    "postCreatedAt": "2026-10-15T04:57:51.000Z"
+    "id": "2110612268962779352",
+    "text": "@ZryMiller @bot @theo Oh Zach, let’s improve this. You look rad today",
+    "url": "https://x.com/thsottiaux/status/2110612268962779352",
+    "postCreatedAt": "2026-10-15T06:02:32.000Z"
   },
   "latest": {
     "reset": {
