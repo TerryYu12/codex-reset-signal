@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T06:27:15.795Z",
+  "updatedAt": "2026-10-15T06:32:15.160Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-15T06:27:15.690Z",
-    "lastSuccessAt": "2026-10-15T06:27:15.690Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-15T06:32:15.158Z",
+    "lastSuccessAt": "2026-10-15T06:32:15.158Z",
+    "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2110612268962779352",
-    "text": "@ZryMiller @bot @theo Oh Zach, let’s improve this. You look rad today",
-    "url": "https://x.com/thsottiaux/status/2110612268962779352",
-    "postCreatedAt": "2026-10-15T06:02:32.000Z"
+    "id": "2110618732666257557",
+    "text": "Done and dusted",
+    "url": "https://x.com/thsottiaux/status/2110618732666257557",
+    "postCreatedAt": "2026-10-15T06:28:13.000Z"
   },
   "latest": {
     "reset": {

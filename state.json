@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2110612268962779352",
-  "lastCheckedAt": "2026-10-15T06:27:15.690Z",
-  "lastSuccessAt": "2026-10-15T06:27:15.690Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 74,
+  "sinceId": "2110618732666257557",
+  "lastCheckedAt": "2026-10-15T06:32:15.158Z",
+  "lastSuccessAt": "2026-10-15T06:32:15.158Z",
+  "lastRunStatus": "checked-2-posts",
+  "postsScanned": 76,
   "matches": [
     {
       "version": "26278fd8a9f9deb053233cc5114c40ba3cdd311bd6aa75bc2688d88afeb12443",
@@ -345,14 +345,16 @@
     "2110595484180214059": "26278fd8a9f9deb053233cc5114c40ba3cdd311bd6aa75bc2688d88afeb12443",
     "2110595554036400151": "73915993aa7b4ccdbe8f83fbbe3b1ad3aba37875b1ddd8301cf9e0a1eebdf2b0",
     "2110595987542868381": "bd69f639e6d4d9b1fb5a17b02b396c8c828ee0809385f585a29f7fb8cf7a5954",
-    "2110612268962779352": "4f39d52a7c7deee6cfa9c721b959c52f615e08675a640524b8baaf8b1a6ad1ab"
+    "2110612268962779352": "4f39d52a7c7deee6cfa9c721b959c52f615e08675a640524b8baaf8b1a6ad1ab",
+    "2110618507276886392": "2461c2efec3e14e0279e81cc42812c4bd7b2719d6dd6a63f84295acb720b6d84",
+    "2110618732666257557": "996d7cf9247938296f825c7bd9eac307760773d5fd36fb40dc9f0e8c4c806639"
   },
   "latestObservedPost": {
-    "id": "2110612268962779352",
-    "canonicalId": "2110612268962779352",
-    "text": "@ZryMiller @bot @theo Oh Zach, let’s improve this. You look rad today",
-    "createdAt": "2026-10-15T06:02:32.000Z",
-    "url": "https://x.com/thsottiaux/status/2110612268962779352",
+    "id": "2110618732666257557",
+    "canonicalId": "2110618732666257557",
+    "text": "Done and dusted",
+    "createdAt": "2026-10-15T06:28:13.000Z",
+    "url": "https://x.com/thsottiaux/status/2110618732666257557",
     "media": []
   },
   "eventParserVersion": 5
