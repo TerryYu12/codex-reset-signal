@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T04:37:15.814Z",
+  "updatedAt": "2026-10-15T04:42:15.715Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-15T04:37:15.809Z",
-    "lastSuccessAt": "2026-10-15T04:37:15.809Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-15T04:42:15.712Z",
+    "lastSuccessAt": "2026-10-15T04:42:15.712Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2110589470911418414",
-    "text": "@theo Sometimes I do need to work",
-    "url": "https://x.com/thsottiaux/status/2110589470911418414",
-    "postCreatedAt": "2026-10-15T04:31:57.000Z"
+    "id": "2110591392691159317",
+    "text": "@poteto @theo I made it alive https://t.co/FjnywxZiLC",
+    "url": "https://x.com/thsottiaux/status/2110591392691159317",
+    "postCreatedAt": "2026-10-15T04:39:35.000Z"
   },
   "latest": {
     "reset": {
