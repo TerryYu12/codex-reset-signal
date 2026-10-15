@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T22:57:20.284Z",
+  "updatedAt": "2026-10-15T23:02:17.972Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-15T22:57:20.243Z",
-    "lastSuccessAt": "2026-10-15T22:57:20.243Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-15T23:02:17.966Z",
+    "lastSuccessAt": "2026-10-15T23:02:17.966Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2110864861119045840",
-    "text": "Je programme en français",
-    "url": "https://x.com/thsottiaux/status/2110864861119045840",
-    "postCreatedAt": "2026-10-15T22:46:15.000Z"
+    "id": "2110868151688912976",
+    "text": "@_simonsmith Spot on",
+    "url": "https://x.com/thsottiaux/status/2110868151688912976",
+    "postCreatedAt": "2026-10-15T22:59:20.000Z"
   },
   "latest": {
     "reset": {

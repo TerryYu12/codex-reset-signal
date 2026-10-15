@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2110864861119045840",
-  "lastCheckedAt": "2026-10-15T22:57:20.243Z",
-  "lastSuccessAt": "2026-10-15T22:57:20.243Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 80,
+  "sinceId": "2110868151688912976",
+  "lastCheckedAt": "2026-10-15T23:02:17.966Z",
+  "lastSuccessAt": "2026-10-15T23:02:17.966Z",
+  "lastRunStatus": "checked-1-posts",
+  "postsScanned": 81,
   "matches": [
     {
       "version": "26278fd8a9f9deb053233cc5114c40ba3cdd311bd6aa75bc2688d88afeb12443",
@@ -351,14 +351,15 @@
     "2110624335463584028": "dbb755b91b9555b5b948fe74ed1665aad1fb20e53918a88be35338e80709d37e",
     "2110750421367287996": "9ab399408adb8eb52756a9a678e0deee64aeb1a7a41f97881af9a56eb96cd563",
     "2110864606088593672": "aa29d9505c89a120101741f8542598b27678e81f2764b469378d7bb205839856",
-    "2110864861119045840": "7c01c36f84f2df7ff886a01ac470952631c66d4f5ef7b0c118f194a029f243b4"
+    "2110864861119045840": "7c01c36f84f2df7ff886a01ac470952631c66d4f5ef7b0c118f194a029f243b4",
+    "2110868151688912976": "d0f703759921ebb86fb9b42b879f0e424d9cafa69f4e9f3902432ab3c021a5be"
   },
   "latestObservedPost": {
-    "id": "2110864861119045840",
-    "canonicalId": "2110864861119045840",
-    "text": "Je programme en français",
-    "createdAt": "2026-10-15T22:46:15.000Z",
-    "url": "https://x.com/thsottiaux/status/2110864861119045840",
+    "id": "2110868151688912976",
+    "canonicalId": "2110868151688912976",
+    "text": "@_simonsmith Spot on",
+    "createdAt": "2026-10-15T22:59:20.000Z",
+    "url": "https://x.com/thsottiaux/status/2110868151688912976",
     "media": []
   },
   "eventParserVersion": 5
