@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T05:47:19.368Z",
+  "updatedAt": "2026-10-16T05:52:20.032Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-16T05:47:19.365Z",
-    "lastSuccessAt": "2026-10-16T05:47:19.365Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-16T05:52:20.027Z",
+    "lastSuccessAt": "2026-10-16T05:52:20.027Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2110951585983631505",
-    "text": "@maria_rcks Can’t argue with that, Let’s break the cycle.",
-    "url": "https://x.com/thsottiaux/status/2110951585983631505",
-    "postCreatedAt": "2026-10-16T04:30:52.000Z"
+    "id": "2110971985417441512",
+    "text": "Either we are out of ideas or we are cooking. Time will tell",
+    "url": "https://x.com/thsottiaux/status/2110971985417441512",
+    "postCreatedAt": "2026-10-16T05:51:55.000Z"
   },
   "latest": {
     "reset": {
