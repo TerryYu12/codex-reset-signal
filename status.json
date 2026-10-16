@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T04:27:25.318Z",
+  "updatedAt": "2026-10-16T04:32:17.281Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-16T04:27:25.314Z",
-    "lastSuccessAt": "2026-10-16T04:27:25.314Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-16T04:32:17.277Z",
+    "lastSuccessAt": "2026-10-16T04:32:17.277Z",
+    "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2110868151688912976",
-    "text": "@_simonsmith Spot on",
-    "url": "https://x.com/thsottiaux/status/2110868151688912976",
-    "postCreatedAt": "2026-10-15T22:59:20.000Z"
+    "id": "2110951585983631505",
+    "text": "@maria_rcks Can’t argue with that, Let’s break the cycle.",
+    "url": "https://x.com/thsottiaux/status/2110951585983631505",
+    "postCreatedAt": "2026-10-16T04:30:52.000Z"
   },
   "latest": {
     "reset": {
