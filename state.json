@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2110971985417441512",
-  "lastCheckedAt": "2026-10-16T23:52:16.614Z",
-  "lastSuccessAt": "2026-10-16T23:52:16.614Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 84,
+  "sinceId": "2111245052513259606",
+  "lastCheckedAt": "2026-10-16T23:57:18.482Z",
+  "lastSuccessAt": "2026-10-16T23:57:18.482Z",
+  "lastRunStatus": "checked-3-posts",
+  "postsScanned": 87,
   "matches": [
     {
       "version": "26278fd8a9f9deb053233cc5114c40ba3cdd311bd6aa75bc2688d88afeb12443",
@@ -355,14 +355,17 @@
     "2110868151688912976": "d0f703759921ebb86fb9b42b879f0e424d9cafa69f4e9f3902432ab3c021a5be",
     "2110951220508819773": "426982ae1809c8441a67444bd1e377d7d360f7bef01ced722981265758966b2a",
     "2110951585983631505": "7548d7bae97822dd136be48ff9233498b82a757b3eafd8e0784bb3540589d8d2",
-    "2110971985417441512": "18f651de9935a3e009b2ed6a61e364b0691de4a400d87513ee3be7be30b8500c"
+    "2110971985417441512": "18f651de9935a3e009b2ed6a61e364b0691de4a400d87513ee3be7be30b8500c",
+    "2111244596131111253": "8ba50e859e93cdb74d3fe1ffa1efe553781dd7060ab036fe90d25230a9957eef",
+    "2111244957851984181": "eb4b5db2957782b7c384d8740c27df36e26728aaedcd69247a4f2a7e245bc91c",
+    "2111245052513259606": "b40dafe7e3f22faeeab5cbe758dbec14a035fb2df08be0a45a6a93d0ef2c086d"
   },
   "latestObservedPost": {
-    "id": "2110971985417441512",
-    "canonicalId": "2110971985417441512",
-    "text": "Either we are out of ideas or we are cooking. Time will tell",
-    "createdAt": "2026-10-16T05:51:55.000Z",
-    "url": "https://x.com/thsottiaux/status/2110971985417441512",
+    "id": "2111245052513259606",
+    "canonicalId": "2111245052513259606",
+    "text": "And update your app to enjoy this gem\n\nhttps://t.co/oMWhw3ETZ6",
+    "createdAt": "2026-10-16T23:57:00.000Z",
+    "url": "https://x.com/thsottiaux/status/2111245052513259606",
     "media": []
   },
   "eventParserVersion": 5

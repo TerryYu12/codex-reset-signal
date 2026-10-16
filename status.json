@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T23:52:16.617Z",
+  "updatedAt": "2026-10-16T23:57:18.486Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-16T23:52:16.614Z",
-    "lastSuccessAt": "2026-10-16T23:52:16.614Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-16T23:57:18.482Z",
+    "lastSuccessAt": "2026-10-16T23:57:18.482Z",
+    "lastRunStatus": "checked-3-posts"
   },
   "latestObservedPost": {
-    "id": "2110971985417441512",
-    "text": "Either we are out of ideas or we are cooking. Time will tell",
-    "url": "https://x.com/thsottiaux/status/2110971985417441512",
-    "postCreatedAt": "2026-10-16T05:51:55.000Z"
+    "id": "2111245052513259606",
+    "text": "And update your app to enjoy this gem\n\nhttps://t.co/oMWhw3ETZ6",
+    "url": "https://x.com/thsottiaux/status/2111245052513259606",
+    "postCreatedAt": "2026-10-16T23:57:00.000Z"
   },
   "latest": {
     "reset": {
