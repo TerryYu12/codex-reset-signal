@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T16:17:18.630Z",
+  "updatedAt": "2026-10-17T16:22:18.536Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-17T16:17:18.626Z",
-    "lastSuccessAt": "2026-10-17T16:17:18.626Z",
-    "lastRunStatus": "checked-1-posts"
+    "lastCheckedAt": "2026-10-17T16:22:16.356Z",
+    "lastSuccessAt": "2026-10-17T16:22:16.356Z",
+    "lastRunStatus": "checked-3-posts"
   },
   "latestObservedPost": {
-    "id": "2111491105120547265",
-    "text": "@poteto Close, but it's missing the gpt",
-    "url": "https://x.com/thsottiaux/status/2111491105120547265",
-    "postCreatedAt": "2026-10-17T16:14:43.000Z"
+    "id": "2111492738025959922",
+    "text": "Landing sometime today by EOD PST",
+    "url": "https://x.com/thsottiaux/status/2111492738025959922",
+    "postCreatedAt": "2026-10-17T16:21:13.000Z"
   },
   "latest": {
     "reset": {
@@ -69,6 +69,32 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "39697103a29962d0c82d2cdfeaaf3f169356770f892850e6d9e558a2f17d57d7",
+      "id": "2111492673890824348",
+      "text": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
+      "url": "https://x.com/thsottiaux/status/2111492673890824348",
+      "postCreatedAt": "2026-10-17T16:20:57.000Z",
+      "detectedAt": "2026-10-17T16:22:16.356Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "26278fd8a9f9deb053233cc5114c40ba3cdd311bd6aa75bc2688d88afeb12443",
       "id": "2110595484180214059",
