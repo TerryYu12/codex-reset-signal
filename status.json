@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T18:17:15.124Z",
+  "updatedAt": "2026-10-17T18:22:20.508Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-17T18:17:15.122Z",
-    "lastSuccessAt": "2026-10-17T18:17:15.122Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-17T18:22:20.504Z",
+    "lastSuccessAt": "2026-10-17T18:22:20.504Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2111519953564368960",
-    "text": "@charliermarsh @ajambrosino Checks out, he was half his usual size today",
-    "url": "https://x.com/thsottiaux/status/2111519953564368960",
-    "postCreatedAt": "2026-10-17T18:09:21.000Z"
+    "id": "2111522308666077527",
+    "text": "@jkeatn Let’s pump those numbers up",
+    "url": "https://x.com/thsottiaux/status/2111522308666077527",
+    "postCreatedAt": "2026-10-17T18:18:43.000Z"
   },
   "latest": {
     "reset": {
