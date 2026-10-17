@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2111495392559067199",
-  "lastCheckedAt": "2026-10-17T16:32:18.178Z",
-  "lastSuccessAt": "2026-10-17T16:32:18.178Z",
+  "sinceId": "2111495569806065883",
+  "lastCheckedAt": "2026-10-17T16:37:20.638Z",
+  "lastSuccessAt": "2026-10-17T16:37:20.638Z",
   "lastRunStatus": "checked-1-posts",
-  "postsScanned": 104,
+  "postsScanned": 105,
   "matches": [
     {
       "version": "39697103a29962d0c82d2cdfeaaf3f169356770f892850e6d9e558a2f17d57d7",
@@ -411,14 +411,15 @@
     "2111492673890824348": "39697103a29962d0c82d2cdfeaaf3f169356770f892850e6d9e558a2f17d57d7",
     "2111492738025959922": "5fe871f49ebf8b3dcc5f177868206d637165a25dd6b3a380669da68f0b84c554",
     "2111493076850229733": "be56a8690a86a95c9eb5f83ddd8a246c079828d4320ede5942fcc152779f9e9c",
-    "2111495392559067199": "9ecb634bd92e9578282dbbc5b78614c3d46e757fc4e81b6e5a78f3821a0c3489"
+    "2111495392559067199": "9ecb634bd92e9578282dbbc5b78614c3d46e757fc4e81b6e5a78f3821a0c3489",
+    "2111495569806065883": "e3af21cf8ad4f03c93abf616c2b18b90c37e2775b604dc61d5c50ea9e5ce5ebe"
   },
   "latestObservedPost": {
-    "id": "2111495392559067199",
-    "canonicalId": "2111495392559067199",
-    "text": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file some tax stuff. Took 20 minutes. We're still so early.",
-    "createdAt": "2026-10-17T16:31:45.000Z",
-    "url": "https://x.com/thsottiaux/status/2111495392559067199",
+    "id": "2111495569806065883",
+    "canonicalId": "2111495569806065883",
+    "text": "@ajambrosino @ah20im start a ghost in the machine tactical squad, we've got a degradation",
+    "createdAt": "2026-10-17T16:32:28.000Z",
+    "url": "https://x.com/thsottiaux/status/2111495569806065883",
     "media": []
   },
   "eventParserVersion": 5

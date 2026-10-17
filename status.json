@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T16:32:18.185Z",
+  "updatedAt": "2026-10-17T16:37:20.642Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-17T16:32:18.178Z",
-    "lastSuccessAt": "2026-10-17T16:32:18.178Z",
+    "lastCheckedAt": "2026-10-17T16:37:20.638Z",
+    "lastSuccessAt": "2026-10-17T16:37:20.638Z",
     "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2111495392559067199",
-    "text": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file some tax stuff. Took 20 minutes. We're still so early.",
-    "url": "https://x.com/thsottiaux/status/2111495392559067199",
-    "postCreatedAt": "2026-10-17T16:31:45.000Z"
+    "id": "2111495569806065883",
+    "text": "@ajambrosino @ah20im start a ghost in the machine tactical squad, we've got a degradation",
+    "url": "https://x.com/thsottiaux/status/2111495569806065883",
+    "postCreatedAt": "2026-10-17T16:32:28.000Z"
   },
   "latest": {
     "reset": {
