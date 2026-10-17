@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T06:02:19.852Z",
+  "updatedAt": "2026-10-17T06:07:20.335Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-17T06:02:19.847Z",
-    "lastSuccessAt": "2026-10-17T06:02:19.847Z",
-    "lastRunStatus": "checked-1-posts"
+    "lastCheckedAt": "2026-10-17T06:07:20.330Z",
+    "lastSuccessAt": "2026-10-17T06:07:20.330Z",
+    "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2111336070248026489",
-    "text": "@_simonsmith Getting there",
-    "url": "https://x.com/thsottiaux/status/2111336070248026489",
-    "postCreatedAt": "2026-10-17T05:58:40.000Z"
+    "id": "2111338115667509490",
+    "text": "@steipete is locked in",
+    "url": "https://x.com/thsottiaux/status/2111338115667509490",
+    "postCreatedAt": "2026-10-17T06:06:48.000Z"
   },
   "latest": {
     "reset": {
