@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T06:12:16.008Z",
+  "updatedAt": "2026-10-17T06:17:17.150Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-17T06:12:16.004Z",
-    "lastSuccessAt": "2026-10-17T06:12:16.004Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-17T06:17:17.146Z",
+    "lastSuccessAt": "2026-10-17T06:17:17.146Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2111338115667509490",
-    "text": "@steipete is locked in",
-    "url": "https://x.com/thsottiaux/status/2111338115667509490",
-    "postCreatedAt": "2026-10-17T06:06:48.000Z"
+    "id": "2111339932614861298",
+    "text": "@ai_funss Working on two of these",
+    "url": "https://x.com/thsottiaux/status/2111339932614861298",
+    "postCreatedAt": "2026-10-17T06:14:01.000Z"
   },
   "latest": {
     "reset": {
