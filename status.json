@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T16:12:16.253Z",
+  "updatedAt": "2026-10-17T16:17:18.630Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-17T16:12:16.249Z",
-    "lastSuccessAt": "2026-10-17T16:12:16.249Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-17T16:17:18.626Z",
+    "lastSuccessAt": "2026-10-17T16:17:18.626Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2111341888322314672",
-    "text": "@steipete 💀",
-    "url": "https://x.com/thsottiaux/status/2111341888322314672",
-    "postCreatedAt": "2026-10-17T06:21:47.000Z"
+    "id": "2111491105120547265",
+    "text": "@poteto Close, but it's missing the gpt",
+    "url": "https://x.com/thsottiaux/status/2111491105120547265",
+    "postCreatedAt": "2026-10-17T16:14:43.000Z"
   },
   "latest": {
     "reset": {

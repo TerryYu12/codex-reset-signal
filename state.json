@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2111341888322314672",
-  "lastCheckedAt": "2026-10-17T16:12:16.249Z",
-  "lastSuccessAt": "2026-10-17T16:12:16.249Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 98,
+  "sinceId": "2111491105120547265",
+  "lastCheckedAt": "2026-10-17T16:17:18.626Z",
+  "lastSuccessAt": "2026-10-17T16:17:18.626Z",
+  "lastRunStatus": "checked-1-posts",
+  "postsScanned": 99,
   "matches": [
     {
       "version": "26278fd8a9f9deb053233cc5114c40ba3cdd311bd6aa75bc2688d88afeb12443",
@@ -369,14 +369,15 @@
     "2111337472349343856": "f52ebbfaae21f307ac2e0227ea2003f4f22c54df7b38cabbf6253eb0a43b5853",
     "2111338115667509490": "616cb939eb104d1682317d5373b11ab56e88cc67a70fba52eee33cbfba0eaf3c",
     "2111339932614861298": "82b1dae819e850b94dcea0128e148c52677f1aa0191579b83462bc0c38d889fb",
-    "2111341888322314672": "d2681eabf4574cce53ac494363055b5dc1f5c0877985cace0da168e8526acd73"
+    "2111341888322314672": "d2681eabf4574cce53ac494363055b5dc1f5c0877985cace0da168e8526acd73",
+    "2111491105120547265": "26773c25c2b35ed67f86af4c0f2e363c32ba29c7edb689aee2c28627ad30fc88"
   },
   "latestObservedPost": {
-    "id": "2111341888322314672",
-    "canonicalId": "2111341888322314672",
-    "text": "@steipete 💀",
-    "createdAt": "2026-10-17T06:21:47.000Z",
-    "url": "https://x.com/thsottiaux/status/2111341888322314672",
+    "id": "2111491105120547265",
+    "canonicalId": "2111491105120547265",
+    "text": "@poteto Close, but it's missing the gpt",
+    "createdAt": "2026-10-17T16:14:43.000Z",
+    "url": "https://x.com/thsottiaux/status/2111491105120547265",
     "media": []
   },
   "eventParserVersion": 5
