@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T23:57:18.486Z",
+  "updatedAt": "2026-10-17T00:02:20.110Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-16T23:57:18.482Z",
-    "lastSuccessAt": "2026-10-16T23:57:18.482Z",
+    "lastCheckedAt": "2026-10-17T00:02:19.607Z",
+    "lastSuccessAt": "2026-10-17T00:02:19.607Z",
     "lastRunStatus": "checked-3-posts"
   },
   "latestObservedPost": {
-    "id": "2111245052513259606",
-    "text": "And update your app to enjoy this gem\n\nhttps://t.co/oMWhw3ETZ6",
-    "url": "https://x.com/thsottiaux/status/2111245052513259606",
-    "postCreatedAt": "2026-10-16T23:57:00.000Z"
+    "id": "2111246098207813946",
+    "text": "@codex_resets Mehga ghud",
+    "url": "https://x.com/thsottiaux/status/2111246098207813946",
+    "postCreatedAt": "2026-10-17T00:01:09.000Z"
   },
   "latest": {
     "reset": {
