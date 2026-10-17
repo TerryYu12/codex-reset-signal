@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T05:57:16.845Z",
+  "updatedAt": "2026-10-17T06:02:19.852Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-17T05:57:16.841Z",
-    "lastSuccessAt": "2026-10-17T05:57:16.841Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-17T06:02:19.847Z",
+    "lastSuccessAt": "2026-10-17T06:02:19.847Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2111323620471632217",
-    "text": "@StefanoGPT @OpenAI https://t.co/Qyskzehl84",
-    "url": "https://x.com/thsottiaux/status/2111323620471632217",
-    "postCreatedAt": "2026-10-17T05:09:12.000Z"
+    "id": "2111336070248026489",
+    "text": "@_simonsmith Getting there",
+    "url": "https://x.com/thsottiaux/status/2111336070248026489",
+    "postCreatedAt": "2026-10-17T05:58:40.000Z"
   },
   "latest": {
     "reset": {
