@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T05:07:15.739Z",
+  "updatedAt": "2026-10-17T05:12:19.132Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-17T05:07:15.735Z",
-    "lastSuccessAt": "2026-10-17T05:07:15.735Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-17T05:12:19.129Z",
+    "lastSuccessAt": "2026-10-17T05:12:19.129Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2111249810502353152",
-    "text": "Also we just added slides support yesterday, try it out. Currently available in Pro, Business and Enterprise while we learn from your feedback.",
-    "url": "https://x.com/thsottiaux/status/2111249810502353152",
-    "postCreatedAt": "2026-10-17T00:15:54.000Z"
+    "id": "2111323620471632217",
+    "text": "@StefanoGPT @OpenAI https://t.co/Qyskzehl84",
+    "url": "https://x.com/thsottiaux/status/2111323620471632217",
+    "postCreatedAt": "2026-10-17T05:09:12.000Z"
   },
   "latest": {
     "reset": {
