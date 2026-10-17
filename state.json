@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2111246098207813946",
-  "lastCheckedAt": "2026-10-17T00:12:14.767Z",
-  "lastSuccessAt": "2026-10-17T00:12:14.767Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 90,
+  "sinceId": "2111249810502353152",
+  "lastCheckedAt": "2026-10-17T00:17:19.026Z",
+  "lastSuccessAt": "2026-10-17T00:17:19.026Z",
+  "lastRunStatus": "checked-2-posts",
+  "postsScanned": 92,
   "matches": [
     {
       "version": "26278fd8a9f9deb053233cc5114c40ba3cdd311bd6aa75bc2688d88afeb12443",
@@ -361,14 +361,16 @@
     "2111245052513259606": "b40dafe7e3f22faeeab5cbe758dbec14a035fb2df08be0a45a6a93d0ef2c086d",
     "2111245443917385980": "fd5d531faa999a0404f669d71e2118bea98db1645575f464d0f9ae7ac19e71f5",
     "2111245772645896573": "582f5f59af613a51a4823d9e8a3426a1fb936c34191ef10bcdb5ffbcaf5d1abe",
-    "2111246098207813946": "97e39979c6f80ae33e79c33a2dee82e978e348a788c192779a35ef0181b3bcb4"
+    "2111246098207813946": "97e39979c6f80ae33e79c33a2dee82e978e348a788c192779a35ef0181b3bcb4",
+    "2111249534072529256": "9e9e2e739dde85b7186c93e33f5cc5bb14e297e69817fa0df2521ecad6769a32",
+    "2111249810502353152": "2423d4995cb71188ff2b06f1f0e3a097ec92cba7bd620b3284162ed31df3a7fb"
   },
   "latestObservedPost": {
-    "id": "2111246098207813946",
-    "canonicalId": "2111246098207813946",
-    "text": "@codex_resets Mehga ghud",
-    "createdAt": "2026-10-17T00:01:09.000Z",
-    "url": "https://x.com/thsottiaux/status/2111246098207813946",
+    "id": "2111249810502353152",
+    "canonicalId": "2111249810502353152",
+    "text": "Also we just added slides support yesterday, try it out. Currently available in Pro, Business and Enterprise while we learn from your feedback.",
+    "createdAt": "2026-10-17T00:15:54.000Z",
+    "url": "https://x.com/thsottiaux/status/2111249810502353152",
     "media": []
   },
   "eventParserVersion": 5
