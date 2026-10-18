@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { spawnSync } from "node:child_process";
-import { cp, mkdtemp, readFile, rm } from "node:fs/promises";
+import { cp, mkdir, mkdtemp, readFile, readdir, rm, writeFile } from "node:fs/promises";
 import { createRequire } from "node:module";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
@@ -39,8 +39,12 @@ try {
     assert.match(result.stdout, /Reset Signal/);
     return result.stdout;
   };
+  // An obsolete staged entrypoint must never be reused by a later invocation.
+  await mkdir(join(isolated, "monitor/.runtime/src"), { recursive: true });
+  await writeFile(join(isolated, "monitor/.runtime/src/cli.ts"), 'throw new Error("stale source executed");');
   const expected = run(isolated, []);
   assert.equal(run(join(isolated, "monitor"), ["--input", "fixtures/posts.json"]), expected);
+  assert.equal((await readdir(join(isolated, "monitor/.runtime"))).some((name) => name.startsWith("run-")), false);
 
   // Inspect paths from inside the staged boundary without running a live poll
   // or creating targets. This covers state, history, Gmail and summary paths.
@@ -56,7 +60,10 @@ try {
     assert.ok(existsSync('scripts/actions-summary.mjs'));
     assert.ok(historicalSignals().length > 0);
   `;
-  const { writeFile } = await import("node:fs/promises");
+  // Use the same canonical-source copy layout for this non-polling path probe.
+  for (const directory of ["src", "history"]) {
+    await cp(join(isolated, directory), join(isolated, "monitor/.runtime", directory), { recursive: true });
+  }
   const probePath = join(isolated, "monitor/.runtime/probe.mts");
   await writeFile(probePath, probe);
   const probeResult = spawnSync(process.execPath, ["--no-global-search-paths", "--import", require.resolve("tsx"), probePath], {

@@ -21,7 +21,10 @@ flag also sends real notifications.
 ## Source and path boundary
 
 `run.mjs` copies the canonical `src/`, `history/`, and `fixtures/` into ignored
-`monitor/.runtime/` before loading the CLI. These are copies, not symlinks: Node
+`monitor/.runtime/run-*/` before loading the CLI. Every invocation gets a fresh
+directory, cleaned up when the CLI exits normally or throws; obsolete sources
+are never reused, and concurrent local processes do not share staged files.
+These are copies, not symlinks: Node
 resolves imports from `monitor/node_modules`, even when root dependencies are
 absent. The staging is explicit at execution time, not a dependency lifecycle
 script. Do not edit staged files; update the canonical sources instead.
