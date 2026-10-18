@@ -4,15 +4,14 @@
   "keyword": "reset",
   "userId": "1953337039510003712",
   "sinceId": "2111918768733753664",
-  "lastCheckedAt": "2026-10-18T20:37:14.607Z",
-  "lastSuccessAt": "2026-10-18T20:37:14.607Z",
-  "lastRunStatus": "checked-2-posts",
+  "lastCheckedAt": "2026-10-18T20:42:16.803Z",
+  "lastSuccessAt": "2026-10-18T20:42:16.803Z",
+  "lastRunStatus": "checked-0-posts",
   "postsScanned": 116,
   "matches": [
     {
       "version": "f7a9422b6a050344dbc8758d9fc575a4cb52ebca200291e6ef9bbe222fe2119d",
       "id": "2111918768733753664",
-      "canonicalId": "2111918768733753664",
       "text": "People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out",
       "createdAt": "2026-10-18T20:34:06.000Z",
       "url": "https://x.com/thsottiaux/status/2111918768733753664",
@@ -32,11 +31,11 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-18T20:37:14.610Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-10-18T20:37:14.610Z"
+      ]
     },
     {
       "version": "39697103a29962d0c82d2cdfeaaf3f169356770f892850e6d9e558a2f17d57d7",
