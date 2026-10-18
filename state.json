@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2111687989328011357",
-  "lastCheckedAt": "2026-10-18T14:52:16.580Z",
-  "lastSuccessAt": "2026-10-18T14:52:16.580Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 112,
+  "sinceId": "2111832959842161136",
+  "lastCheckedAt": "2026-10-18T14:57:14.881Z",
+  "lastSuccessAt": "2026-10-18T14:57:14.881Z",
+  "lastRunStatus": "checked-1-posts",
+  "postsScanned": 113,
   "matches": [
     {
       "version": "39697103a29962d0c82d2cdfeaaf3f169356770f892850e6d9e558a2f17d57d7",
@@ -419,14 +419,15 @@
     "2111523665817047359": "9031dd49c146b84a7852da204b66db81d7208655b84fe4fcfafdcdaa5063b76b",
     "2111566005684289735": "662492203a07fa50cee8c75513f204eb0198c9cc079c6fa486f3c9443b32aab5",
     "2111583927156760690": "a8bd68d5cb406c9d31c31480d73fdcdbe1fb6c4964c7d1f2c209198ee06db4fb",
-    "2111687989328011357": "882386b897990d20e3ff22181637a13aa8b273552318504bfa4dce5004f2c6de"
+    "2111687989328011357": "882386b897990d20e3ff22181637a13aa8b273552318504bfa4dce5004f2c6de",
+    "2111832959842161136": "9fb2b75f1050510272022d5802c4b077e29e189949faf137937f7998786e2310"
   },
   "latestObservedPost": {
-    "id": "2111687989328011357",
-    "canonicalId": "2111687989328011357",
-    "text": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
-    "createdAt": "2026-10-18T05:17:04.000Z",
-    "url": "https://x.com/thsottiaux/status/2111687989328011357",
+    "id": "2111832959842161136",
+    "canonicalId": "2111832959842161136",
+    "text": "@argofowl EU sorry. We’re making it so that\n\n(a) if you had created a dot elsewhere and find yourself in the EU it will keep working\n(b) dots are coming to the EU in the future",
+    "createdAt": "2026-10-18T14:53:08.000Z",
+    "url": "https://x.com/thsottiaux/status/2111832959842161136",
     "media": []
   },
   "eventParserVersion": 5

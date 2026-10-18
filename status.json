@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T14:52:16.607Z",
+  "updatedAt": "2026-10-18T14:57:14.884Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-18T14:52:16.580Z",
-    "lastSuccessAt": "2026-10-18T14:52:16.580Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-18T14:57:14.881Z",
+    "lastSuccessAt": "2026-10-18T14:57:14.881Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2111687989328011357",
-    "text": "@rl_env Quick to jump to conclusion. This is my OpenAI work dot coordinating with my personal dot. Two entirely separate accounts.",
-    "url": "https://x.com/thsottiaux/status/2111687989328011357",
-    "postCreatedAt": "2026-10-18T05:17:04.000Z"
+    "id": "2111832959842161136",
+    "text": "@argofowl EU sorry. We’re making it so that\n\n(a) if you had created a dot elsewhere and find yourself in the EU it will keep working\n(b) dots are coming to the EU in the future",
+    "url": "https://x.com/thsottiaux/status/2111832959842161136",
+    "postCreatedAt": "2026-10-18T14:53:08.000Z"
   },
   "latest": {
     "reset": {
