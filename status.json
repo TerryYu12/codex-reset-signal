@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T22:02:14.190Z",
+  "updatedAt": "2026-10-18T22:07:16.516Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-18T22:02:14.187Z",
-    "lastSuccessAt": "2026-10-18T22:02:14.187Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-18T22:07:16.512Z",
+    "lastSuccessAt": "2026-10-18T22:07:16.512Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2111918768733753664",
-    "text": "People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out",
-    "url": "https://x.com/thsottiaux/status/2111918768733753664",
-    "postCreatedAt": "2026-10-18T20:34:06.000Z"
+    "id": "2111941223187710114",
+    "text": "@LexnLin We do care about local regulation",
+    "url": "https://x.com/thsottiaux/status/2111941223187710114",
+    "postCreatedAt": "2026-10-18T22:03:20.000Z"
   },
   "latest": {
     "reset": {
