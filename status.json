@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T15:57:15.975Z",
+  "updatedAt": "2026-10-18T16:02:17.129Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-18T15:57:15.970Z",
-    "lastSuccessAt": "2026-10-18T15:57:15.970Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-18T16:02:17.126Z",
+    "lastSuccessAt": "2026-10-18T16:02:17.126Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2111832959842161136",
-    "text": "@argofowl EU sorry. We’re making it so that\n\n(a) if you had created a dot elsewhere and find yourself in the EU it will keep working\n(b) dots are coming to the EU in the future",
-    "url": "https://x.com/thsottiaux/status/2111832959842161136",
-    "postCreatedAt": "2026-10-18T14:53:08.000Z"
+    "id": "2111849858374177222",
+    "text": "What’s cooking today",
+    "url": "https://x.com/thsottiaux/status/2111849858374177222",
+    "postCreatedAt": "2026-10-18T16:00:17.000Z"
   },
   "latest": {
     "reset": {

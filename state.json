@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2111832959842161136",
-  "lastCheckedAt": "2026-10-18T15:57:15.970Z",
-  "lastSuccessAt": "2026-10-18T15:57:15.970Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 113,
+  "sinceId": "2111849858374177222",
+  "lastCheckedAt": "2026-10-18T16:02:17.126Z",
+  "lastSuccessAt": "2026-10-18T16:02:17.126Z",
+  "lastRunStatus": "checked-1-posts",
+  "postsScanned": 114,
   "matches": [
     {
       "version": "39697103a29962d0c82d2cdfeaaf3f169356770f892850e6d9e558a2f17d57d7",
@@ -420,14 +420,15 @@
     "2111566005684289735": "662492203a07fa50cee8c75513f204eb0198c9cc079c6fa486f3c9443b32aab5",
     "2111583927156760690": "a8bd68d5cb406c9d31c31480d73fdcdbe1fb6c4964c7d1f2c209198ee06db4fb",
     "2111687989328011357": "882386b897990d20e3ff22181637a13aa8b273552318504bfa4dce5004f2c6de",
-    "2111832959842161136": "9fb2b75f1050510272022d5802c4b077e29e189949faf137937f7998786e2310"
+    "2111832959842161136": "9fb2b75f1050510272022d5802c4b077e29e189949faf137937f7998786e2310",
+    "2111849858374177222": "08a4c29a8b6f58c56bfe084be81b128ca6957337bb8cb4d4207eb4ca4062c74a"
   },
   "latestObservedPost": {
-    "id": "2111832959842161136",
-    "canonicalId": "2111832959842161136",
-    "text": "@argofowl EU sorry. We’re making it so that\n\n(a) if you had created a dot elsewhere and find yourself in the EU it will keep working\n(b) dots are coming to the EU in the future",
-    "createdAt": "2026-10-18T14:53:08.000Z",
-    "url": "https://x.com/thsottiaux/status/2111832959842161136",
+    "id": "2111849858374177222",
+    "canonicalId": "2111849858374177222",
+    "text": "What’s cooking today",
+    "createdAt": "2026-10-18T16:00:17.000Z",
+    "url": "https://x.com/thsottiaux/status/2111849858374177222",
     "media": []
   },
   "eventParserVersion": 5
