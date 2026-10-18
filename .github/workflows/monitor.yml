@@ -54,8 +54,10 @@ jobs:
         with:
           node-version: 22
           cache: npm
-      # Monitor and build checks pass without dependency lifecycle scripts.
+          cache-dependency-path: monitor/package-lock.json
+      # Install only the isolated CLI runtime, never the web/test dependency tree.
       - run: npm ci --ignore-scripts
+        working-directory: monitor
       - name: Verify notification secrets configuration
         env:
           HAS_GMAIL_USER: ${{ secrets.GMAIL_USER != '' }}
@@ -91,9 +93,9 @@ jobs:
           SMS_TO: ${{ secrets.SMS_TO }}
         run: |
           if [ "${{ github.event.inputs.test_notify }}" = "true" ]; then
-            npm run monitor -- --test-notify
+            npm --prefix monitor run monitor -- --test-notify
           else
-            npm run monitor
+            npm --prefix monitor run monitor
           fi
       - name: Publish GitHub Actions summary
         if: always() && steps.monitor.outcome != 'skipped'

@@ -33,3 +33,61 @@ No real notification was sent. Actual GitHub token authentication/state persiste
 The earlier RSC/Vite advisory IDs GHSA-xqc2-xf4c-x3h3, GHSA-rq7h-c2jc-7f22 and GHSA-9jrq-w75r-8gcw were not returned by the current npm audit, and their GitHub advisory pages returned 404 during this review. The target package versions were verified against npm; the patch does not claim these inaccessible advisories were independently confirmed.
 
 This is risk reduction, not a clean audit or evidence that credentials were compromised. Separating the monitor's dependency graph from dashboard/test tooling is a possible follow-up, not part of this minimal change.
+
+## Stage 2: isolated monitor and Vitest 4 (2026-10-18)
+
+Based on merged `31c8390edc2a92665f2f828220b6ab6e8518053b`.
+
+- Upgraded Vitest 3.2.7 to the registry-verified 4.1.11. The resolved mocker is
+  4.1.11, and `tinypool` is absent from the root lockfile. The root audit no
+  longer reports the earlier critical worker-pool or moderate mocker findings.
+- Added independent `monitor/package.json` and `monitor/package-lock.json` with
+  only chrono-node, luxon and tsx as production dependencies. Scheduled Actions
+  install this lockfile with lifecycle scripts disabled and use its cache key.
+- Shared CLI source is staged beneath the isolated dependency directory; all
+  dashboard/API/server source and root scripts remain unchanged. Existing state,
+  summary, Gmail helper and fixture paths are preserved. See
+  [monitor setup and boundary](../monitor/README.md).
+- Preserved step-scoped notification secrets, presence-only configuration checks,
+  both credential-free checkouts and persistence-only ephemeral Git authentication.
+
+### Stage 2 verification
+
+Using Node 24.19.0 / npm 11.9.0 locally, with no notification credentials:
+
+- Clean root `npm ci --ignore-scripts --no-audit`.
+- 91 tests across 14 files, typecheck, Pages validation and full dashboard build.
+- Independent `npm --prefix monitor ci --ignore-scripts --no-audit` in a fresh
+  temporary checkout with no root `node_modules`: 7 packages installed.
+- Fixture-only monitor dry runs from repository and package working directories;
+  default and explicit fixture paths produce the same output.
+- Isolation probe with global module search disabled: chrono-node/luxon/tsx
+  resolve inside the monitor package; web/test packages cannot resolve. State,
+  status, historical seed, Gmail helper and Actions summary paths pass.
+- Cloudflare dashboard and scheduler Worker deploy commands with `--dry-run`
+  only, never a deployment. The normal build's source-map/dynamic-import warnings
+  are unchanged.
+
+CI retains the full root verification job and adds an independent Node 22
+monitor install/audit/isolation job. No real poll, test notification, merge or
+production deployment is performed by this change. Local verification does not
+exercise actual GitHub token persistence or delivery credentials.
+
+### Current audit scope and residual risk
+
+Primary registry: `https://registry.npmjs.org/`, checked with
+`npm audit --package-lock-only --ignore-scripts --json` for both lockfiles.
+
+- **Root: 6 high, 0 critical, 0 moderate** (269 dependency entries). The remaining
+  affected entries are braces, micromatch, fast-glob, vite-plugin-commonjs,
+  vite-plugin-dynamic-import and vinext. These are the existing web/build chain;
+  no patched compatible braces release was available in this audit. We did not
+  force incompatible overrides or remove dashboard features to hide findings.
+- **Monitor: 0 reported vulnerabilities** (33 dependency entries including
+  optional platform packages; 7 installed on the test platform). None of the
+  above web dependencies, Vitest or tinypool are in this lockfile.
+
+These are point-in-time advisory results, not a guarantee against unknown
+vulnerabilities. The monitor still executes its own runtime dependencies while
+notification secrets are present, so this reduces exposure rather than creating
+an execution sandbox. Continue auditing both lockfiles.

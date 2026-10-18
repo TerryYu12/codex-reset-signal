@@ -33,3 +33,20 @@ jobs:
         run: npm run cloudflare:dry-run
       - name: Validate Cloudflare scheduler Worker
         run: npm run cloudflare:scheduler:dry-run
+
+  monitor-isolation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: monitor/package-lock.json
+      - run: npm ci --ignore-scripts
+        working-directory: monitor
+      - run: npm audit --omit=dev --audit-level=low
+        working-directory: monitor
+      - run: node --no-global-search-paths scripts/verify-monitor-isolation.mjs
