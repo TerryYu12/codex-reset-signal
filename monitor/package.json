@@ -1,0 +1,16 @@
+{
+  "name": "codex-reset-signal-monitor",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "monitor": "node run.mjs",
+    "monitor:dry": "node run.mjs --dry-run"
+  },
+  "dependencies": {
+    "chrono-node": "2.10.1",
+    "luxon": "3.7.2",
+    "tsx": "4.20.6"
+  },
+  "engines": { "node": ">=22" }
+}
