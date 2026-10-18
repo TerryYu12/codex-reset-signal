@@ -25,8 +25,8 @@
   "dependencies": {
     "chrono-node": "^2.10.1",
     "luxon": "^3.7.2",
-    "react": "^19.2.6",
-    "react-dom": "^19.2.6",
+    "react": "^19.2.9",
+    "react-dom": "^19.2.9",
     "vinext": "^0.0.16"
   },
   "devDependencies": {
