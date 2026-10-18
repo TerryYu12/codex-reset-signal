@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2111941223187710114",
-  "lastCheckedAt": "2026-10-18T22:17:12.508Z",
-  "lastSuccessAt": "2026-10-18T22:17:12.508Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 117,
+  "sinceId": "2111945355596353823",
+  "lastCheckedAt": "2026-10-18T22:22:12.357Z",
+  "lastSuccessAt": "2026-10-18T22:22:12.357Z",
+  "lastRunStatus": "checked-1-posts",
+  "postsScanned": 118,
   "matches": [
     {
       "version": "f7a9422b6a050344dbc8758d9fc575a4cb52ebca200291e6ef9bbe222fe2119d",
@@ -452,14 +452,15 @@
     "2111849858374177222": "08a4c29a8b6f58c56bfe084be81b128ca6957337bb8cb4d4207eb4ca4062c74a",
     "2111918635849801739": "5de74bed76286972541eb1f7676ead6096a46e1d22532eb68658d32ba0a38edc",
     "2111918768733753664": "f7a9422b6a050344dbc8758d9fc575a4cb52ebca200291e6ef9bbe222fe2119d",
-    "2111941223187710114": "d1bbc0514b67356130f56873fa86a15e6579491fdb15c2e8225345ea0cb241d5"
+    "2111941223187710114": "d1bbc0514b67356130f56873fa86a15e6579491fdb15c2e8225345ea0cb241d5",
+    "2111945355596353823": "9b603d79c383a25419d6c14b3bfcb15a90a2f99dc3f12489f042f4055f77fea4"
   },
   "latestObservedPost": {
-    "id": "2111941223187710114",
-    "canonicalId": "2111941223187710114",
-    "text": "@LexnLin We do care about local regulation",
-    "createdAt": "2026-10-18T22:03:20.000Z",
-    "url": "https://x.com/thsottiaux/status/2111941223187710114",
+    "id": "2111945355596353823",
+    "canonicalId": "2111945355596353823",
+    "text": "@theo Journalism with additional Theo steps",
+    "createdAt": "2026-10-18T22:19:45.000Z",
+    "url": "https://x.com/thsottiaux/status/2111945355596353823",
     "media": []
   },
   "eventParserVersion": 5

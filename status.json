@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T22:17:12.510Z",
+  "updatedAt": "2026-10-18T22:22:12.359Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-18T22:17:12.508Z",
-    "lastSuccessAt": "2026-10-18T22:17:12.508Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-18T22:22:12.357Z",
+    "lastSuccessAt": "2026-10-18T22:22:12.357Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2111941223187710114",
-    "text": "@LexnLin We do care about local regulation",
-    "url": "https://x.com/thsottiaux/status/2111941223187710114",
-    "postCreatedAt": "2026-10-18T22:03:20.000Z"
+    "id": "2111945355596353823",
+    "text": "@theo Journalism with additional Theo steps",
+    "url": "https://x.com/thsottiaux/status/2111945355596353823",
+    "postCreatedAt": "2026-10-18T22:19:45.000Z"
   },
   "latest": {
     "reset": {
