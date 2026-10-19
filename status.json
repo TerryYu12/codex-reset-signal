@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T05:07:21.600Z",
+  "updatedAt": "2026-10-19T05:12:13.928Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-19T05:07:21.596Z",
-    "lastSuccessAt": "2026-10-19T05:07:21.596Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-19T05:12:13.760Z",
+    "lastSuccessAt": "2026-10-19T05:12:13.760Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2112039750999986304",
-    "text": "@codeglitch @hqmank Sorry",
-    "url": "https://x.com/thsottiaux/status/2112039750999986304",
-    "postCreatedAt": "2026-10-19T04:34:51.000Z"
+    "id": "2112049026636103954",
+    "text": "@jxnlco Didn’t know Batman worked at OpenAI",
+    "url": "https://x.com/thsottiaux/status/2112049026636103954",
+    "postCreatedAt": "2026-10-19T05:11:42.000Z"
   },
   "latest": {
     "reset": {
