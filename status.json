@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T04:12:12.480Z",
+  "updatedAt": "2026-10-19T04:17:16.388Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-19T04:12:12.476Z",
-    "lastSuccessAt": "2026-10-19T04:12:12.476Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-19T04:17:16.386Z",
+    "lastSuccessAt": "2026-10-19T04:17:16.386Z",
+    "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2111994295364571327",
-    "text": "@JamesStewau0y5 Registers as time travel",
-    "url": "https://x.com/thsottiaux/status/2111994295364571327",
-    "postCreatedAt": "2026-10-19T01:34:13.000Z"
+    "id": "2112034328549216593",
+    "text": "https://t.co/kjNgDoLCWz",
+    "url": "https://x.com/thsottiaux/status/2112034328549216593",
+    "postCreatedAt": "2026-10-19T04:13:18.000Z"
   },
   "latest": {
     "reset": {
