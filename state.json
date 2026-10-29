@@ -3,12 +3,41 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2115847364670030218",
-  "lastCheckedAt": "2026-10-29T16:48:17.699Z",
-  "lastSuccessAt": "2026-10-29T16:48:17.699Z",
-  "lastRunStatus": "checked-2-posts",
-  "postsScanned": 194,
+  "sinceId": "2115851811576053881",
+  "lastCheckedAt": "2026-10-29T17:03:13.024Z",
+  "lastSuccessAt": "2026-10-29T17:03:13.024Z",
+  "lastRunStatus": "checked-3-posts",
+  "postsScanned": 197,
   "matches": [
+    {
+      "version": "41e2cbc827fd7f3e134d57e3399dca1567f6cd5a1510eb3e471d695bbe32949f",
+      "id": "2115851621137784832",
+      "canonicalId": "2115851621137784832",
+      "text": "Graduating from The Reset Company to The Token Company.",
+      "createdAt": "2026-10-29T17:01:51.000Z",
+      "url": "https://x.com/thsottiaux/status/2115851621137784832",
+      "media": [],
+      "detectedAt": "2026-10-29T17:03:13.024Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Graduating from The Reset Company to The Token Company",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Graduating from The Reset Company to The Token Company",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-10-29T17:03:13.027Z"
+    },
     {
       "version": "81aa0416a461f3aedd751e42cca996b60e3af36c5e8c7e391f5ef7d01ce6ef61",
       "id": "2115273064481218829",
@@ -560,30 +589,6 @@
         "github-actions",
         "email"
       ]
-    },
-    {
-      "version": "ecc7339da4eebb3dc39327664289521ad6dfb66f2129c71a7e50119a4ced0557",
-      "id": "2107913674593644711",
-      "text": "Day 3/\n\nThe big one is GPT-6 in Chat, but today is also a little celebration day with a new high of 40M active users across Codex and ChatGPT Work.\n\nLoading a banked reset in everyone's paid accounts. See you again tomorrow!",
-      "createdAt": "2026-10-07T19:19:17.000Z",
-      "url": "https://x.com/thsottiaux/status/2107913674593644711",
-      "media": [],
-      "detectedAt": "2026-10-09T15:11:23.456Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Loading a banked reset in everyone's paid accounts",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Loading a banked reset in everyone's paid accounts",
-            "note": "原文没有可确定的时间"
-          }
-        }
-      ],
-      "channels": []
     }
   ],
   "outbox": [],
@@ -781,14 +786,17 @@
     "2115648938149818370": "efa9253050c7572d56456578267faa086d329d702cf5c3348a0511704ce56c5f",
     "2115649073302904875": "d8e2e9496e44860fd929f1e13659d0b8b84fbfdfb7143ea68105981aa2191f62",
     "2115847315173069025": "e938869f6d32597f0664b3fe4e8c14d6eb82afc79294159aeadcbf979453b236",
-    "2115847364670030218": "841295eaa0d6e2a4f410e7e646a565f681e6284a174c0ce86c9674ffd77fe94c"
+    "2115847364670030218": "841295eaa0d6e2a4f410e7e646a565f681e6284a174c0ce86c9674ffd77fe94c",
+    "2115850175868727621": "858d40140426f71c162979ade8a5a061f606c1f62b6e691532b0b5e3de17af2a",
+    "2115851621137784832": "41e2cbc827fd7f3e134d57e3399dca1567f6cd5a1510eb3e471d695bbe32949f",
+    "2115851811576053881": "3ffeeea7cb079ec71bd353a8f9e02ffb721a3defdabf165e194b1147a9f5372b"
   },
   "latestObservedPost": {
-    "id": "2115847364670030218",
-    "canonicalId": "2115847364670030218",
-    "text": "@poteto Bring it on",
-    "createdAt": "2026-10-29T16:44:56.000Z",
-    "url": "https://x.com/thsottiaux/status/2115847364670030218",
+    "id": "2115851811576053881",
+    "canonicalId": "2115851811576053881",
+    "text": "@StefanoGPT Yes",
+    "createdAt": "2026-10-29T17:02:37.000Z",
+    "url": "https://x.com/thsottiaux/status/2115851811576053881",
     "media": []
   },
   "eventParserVersion": 5

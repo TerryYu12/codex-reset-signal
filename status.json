@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T16:48:17.702Z",
+  "updatedAt": "2026-10-29T17:03:17.738Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-29T16:48:17.699Z",
-    "lastSuccessAt": "2026-10-29T16:48:17.699Z",
-    "lastRunStatus": "checked-2-posts"
+    "lastCheckedAt": "2026-10-29T17:03:13.024Z",
+    "lastSuccessAt": "2026-10-29T17:03:13.024Z",
+    "lastRunStatus": "checked-3-posts"
   },
   "latestObservedPost": {
-    "id": "2115847364670030218",
-    "text": "@poteto Bring it on",
-    "url": "https://x.com/thsottiaux/status/2115847364670030218",
-    "postCreatedAt": "2026-10-29T16:44:56.000Z"
+    "id": "2115851811576053881",
+    "text": "@StefanoGPT Yes",
+    "url": "https://x.com/thsottiaux/status/2115851811576053881",
+    "postCreatedAt": "2026-10-29T17:02:37.000Z"
   },
   "latest": {
     "reset": {
@@ -69,6 +69,32 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "41e2cbc827fd7f3e134d57e3399dca1567f6cd5a1510eb3e471d695bbe32949f",
+      "id": "2115851621137784832",
+      "text": "Graduating from The Reset Company to The Token Company.",
+      "url": "https://x.com/thsottiaux/status/2115851621137784832",
+      "postCreatedAt": "2026-10-29T17:01:51.000Z",
+      "detectedAt": "2026-10-29T17:03:13.024Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Graduating from The Reset Company to The Token Company",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Graduating from The Reset Company to The Token Company",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "81aa0416a461f3aedd751e42cca996b60e3af36c5e8c7e391f5ef7d01ce6ef61",
       "id": "2115273064481218829",
@@ -573,30 +599,6 @@
       "deliveryChannels": [
         "email"
       ],
-      "origin": "live"
-    },
-    {
-      "version": "ecc7339da4eebb3dc39327664289521ad6dfb66f2129c71a7e50119a4ced0557",
-      "id": "2107913674593644711",
-      "text": "Day 3/\n\nThe big one is GPT-6 in Chat, but today is also a little celebration day with a new high of 40M active users across Codex and ChatGPT Work.\n\nLoading a banked reset in everyone's paid accounts. See you again tomorrow!",
-      "url": "https://x.com/thsottiaux/status/2107913674593644711",
-      "postCreatedAt": "2026-10-07T19:19:17.000Z",
-      "detectedAt": "2026-10-09T15:11:23.456Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Loading a banked reset in everyone's paid accounts",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Loading a banked reset in everyone's paid accounts",
-            "note": "原文没有可确定的时间"
-          }
-        }
-      ],
-      "deliveryChannels": [],
       "origin": "live"
     }
   ]
