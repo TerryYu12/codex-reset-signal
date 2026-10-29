@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-23T00:22:13.954Z",
+  "updatedAt": "2026-10-29T08:50:51.660Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-23T00:22:13.951Z",
-    "lastSuccessAt": "2026-10-23T00:22:13.951Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-29T08:50:44.500Z",
+    "lastSuccessAt": "2026-10-29T08:50:44.500Z",
+    "lastRunStatus": "checked-51-posts"
   },
   "latestObservedPost": {
-    "id": "2113404560853397516",
-    "text": "@romainhuet Very baguette of you",
-    "url": "https://x.com/thsottiaux/status/2113404560853397516",
-    "postCreatedAt": "2026-10-22T22:58:07.000Z"
+    "id": "2115649073302904875",
+    "text": "@rezoundous Low, but not zero",
+    "url": "https://x.com/thsottiaux/status/2115649073302904875",
+    "postCreatedAt": "2026-10-29T03:37:00.000Z"
   },
   "latest": {
     "reset": {
@@ -69,6 +69,162 @@
     "bankExpiry": null
   },
   "recent": [
+    {
+      "version": "81aa0416a461f3aedd751e42cca996b60e3af36c5e8c7e391f5ef7d01ce6ef61",
+      "id": "2115273064481218829",
+      "text": "Day 23/ Much requested iCloud Main &amp; Calendar plugins. Just kidding, today is a reset. Still much requested though!",
+      "url": "https://x.com/thsottiaux/status/2115273064481218829",
+      "postCreatedAt": "2026-10-28T02:42:53.000Z",
+      "detectedAt": "2026-10-29T08:50:44.499Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Just kidding, today is a reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Just kidding, today is a reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
+    {
+      "version": "0ed9171ef1a5ce3545afbab8a929e6404915691424944a6d484536d78e66c1e3",
+      "id": "2114599388454481930",
+      "text": "@larsencc @bot Not enough resets",
+      "url": "https://x.com/thsottiaux/status/2114599388454481930",
+      "postCreatedAt": "2026-10-26T06:05:56.000Z",
+      "detectedAt": "2026-10-29T08:50:44.499Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@larsencc @bot Not enough resets",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@larsencc @bot Not enough resets",
+            "note": "讨论、请求、弱判断或否定，不代表已确认的重置"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
+    {
+      "version": "684703fff5bf0ff96aef635fdc05aac74b5ffbb3d960bb7653f5e4b04cc9f41b",
+      "id": "2114588174249071102",
+      "text": "Day 21/ Wonder what happens the remaining seven days. But today is a reset.",
+      "url": "https://x.com/thsottiaux/status/2114588174249071102",
+      "postCreatedAt": "2026-10-26T05:21:22.000Z",
+      "detectedAt": "2026-10-29T08:50:44.499Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "But today is a reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "But today is a reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
+    {
+      "version": "b9d449b7729cd88e67ea3d4e502de24abc9b87cbe3e939a8b0ef8c3126c5ce58",
+      "id": "2114228044072403055",
+      "text": "@theo Not a real improvement, put the reset in the bag",
+      "url": "https://x.com/thsottiaux/status/2114228044072403055",
+      "postCreatedAt": "2026-10-25T05:30:20.000Z",
+      "detectedAt": "2026-10-29T08:50:44.499Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@theo Not a real improvement, put the reset in the bag",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@theo Not a real improvement, put the reset in the bag",
+            "note": "讨论、请求、弱判断或否定，不代表已确认的重置"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
+    {
+      "version": "72f6ac530cb6d09cb0c957d3535c8768295542be3bfd44f88d1ecb0c18a872b4",
+      "id": "2114200152701575656",
+      "text": "Day 20/ Rest and reset",
+      "url": "https://x.com/thsottiaux/status/2114200152701575656",
+      "postCreatedAt": "2026-10-25T03:39:31.000Z",
+      "detectedAt": "2026-10-29T08:50:44.499Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Day 20/ Rest and reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Day 20/ Rest and reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
+    {
+      "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
+      "id": "2113492187770175603",
+      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex &amp; work. But yes… that’s a reset!",
+      "url": "https://x.com/thsottiaux/status/2113492187770175603",
+      "postCreatedAt": "2026-10-23T04:46:19.000Z",
+      "detectedAt": "2026-10-29T08:50:44.498Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "But yes… that’s a reset!",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "But yes… that’s a reset!",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "deliveryChannels": [
+        "email"
+      ],
+      "origin": "live"
+    },
     {
       "version": "2417cdb9e6c0e6c4846af3702c3c24fb721ec4961912d951745e526999497bd1",
       "id": "2113162277688070445",
@@ -442,30 +598,6 @@
       ],
       "deliveryChannels": [],
       "origin": "live"
-    },
-    {
-      "version": "history:2096035437299237298",
-      "id": "2096035437299237298",
-      "text": "Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super patient with us (not really, but it’s ok!)… we will do the full banked reset today too for all Plus, Pro and Business users. Lands end of day. Happy Astra day and enjoy a phenomenal weekend. PS: If you create the account or upgrade before 8pm PT you will get it too. Still time!",
-      "url": "https://x.com/thsottiaux/status/2096035437299237298",
-      "postCreatedAt": "2026-09-05T00:39:25.364Z",
-      "detectedAt": "2026-09-09T08:30:00.000Z",
-      "events": [
-        {
-          "type": "bank_credit",
-          "status": "announced",
-          "evidence": "we will do the full banked reset today too for all Plus, Pro and Business users",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Lands end of day",
-            "note": "Banked reset was promised by end of day, but no safe exact landing time is stated. The separate 8pm PT time is an eligibility cutoff for account creation or upgrade, not the bank-credit landing time."
-          }
-        }
-      ],
-      "deliveryChannels": [],
-      "origin": "historical_seed"
     }
   ]
 }

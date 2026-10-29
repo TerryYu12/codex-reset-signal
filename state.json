@@ -3,12 +3,186 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2113404560853397516",
-  "lastCheckedAt": "2026-10-23T00:22:13.951Z",
-  "lastSuccessAt": "2026-10-23T00:22:13.951Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 141,
+  "sinceId": "2115649073302904875",
+  "lastCheckedAt": "2026-10-29T08:50:44.500Z",
+  "lastSuccessAt": "2026-10-29T08:50:44.500Z",
+  "lastRunStatus": "checked-51-posts",
+  "postsScanned": 192,
   "matches": [
+    {
+      "version": "81aa0416a461f3aedd751e42cca996b60e3af36c5e8c7e391f5ef7d01ce6ef61",
+      "id": "2115273064481218829",
+      "canonicalId": "2115273064481218829",
+      "text": "Day 23/ Much requested iCloud Main &amp; Calendar plugins. Just kidding, today is a reset. Still much requested though!",
+      "createdAt": "2026-10-28T02:42:53.000Z",
+      "url": "https://x.com/thsottiaux/status/2115273064481218829",
+      "media": [],
+      "detectedAt": "2026-10-29T08:50:44.499Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Just kidding, today is a reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Just kidding, today is a reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-10-29T08:50:50.428Z"
+    },
+    {
+      "version": "0ed9171ef1a5ce3545afbab8a929e6404915691424944a6d484536d78e66c1e3",
+      "id": "2114599388454481930",
+      "canonicalId": "2114599388454481930",
+      "text": "@larsencc @bot Not enough resets",
+      "createdAt": "2026-10-26T06:05:56.000Z",
+      "url": "https://x.com/thsottiaux/status/2114599388454481930",
+      "media": [],
+      "detectedAt": "2026-10-29T08:50:44.499Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@larsencc @bot Not enough resets",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@larsencc @bot Not enough resets",
+            "note": "讨论、请求、弱判断或否定，不代表已确认的重置"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-10-29T08:50:49.273Z"
+    },
+    {
+      "version": "684703fff5bf0ff96aef635fdc05aac74b5ffbb3d960bb7653f5e4b04cc9f41b",
+      "id": "2114588174249071102",
+      "canonicalId": "2114588174249071102",
+      "text": "Day 21/ Wonder what happens the remaining seven days. But today is a reset.",
+      "createdAt": "2026-10-26T05:21:22.000Z",
+      "url": "https://x.com/thsottiaux/status/2114588174249071102",
+      "media": [],
+      "detectedAt": "2026-10-29T08:50:44.499Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "But today is a reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "But today is a reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-10-29T08:50:48.145Z"
+    },
+    {
+      "version": "b9d449b7729cd88e67ea3d4e502de24abc9b87cbe3e939a8b0ef8c3126c5ce58",
+      "id": "2114228044072403055",
+      "canonicalId": "2114228044072403055",
+      "text": "@theo Not a real improvement, put the reset in the bag",
+      "createdAt": "2026-10-25T05:30:20.000Z",
+      "url": "https://x.com/thsottiaux/status/2114228044072403055",
+      "media": [],
+      "detectedAt": "2026-10-29T08:50:44.499Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@theo Not a real improvement, put the reset in the bag",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@theo Not a real improvement, put the reset in the bag",
+            "note": "讨论、请求、弱判断或否定，不代表已确认的重置"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-10-29T08:50:46.943Z"
+    },
+    {
+      "version": "72f6ac530cb6d09cb0c957d3535c8768295542be3bfd44f88d1ecb0c18a872b4",
+      "id": "2114200152701575656",
+      "canonicalId": "2114200152701575656",
+      "text": "Day 20/ Rest and reset",
+      "createdAt": "2026-10-25T03:39:31.000Z",
+      "url": "https://x.com/thsottiaux/status/2114200152701575656",
+      "media": [],
+      "detectedAt": "2026-10-29T08:50:44.499Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Day 20/ Rest and reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Day 20/ Rest and reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-10-29T08:50:45.766Z"
+    },
+    {
+      "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
+      "id": "2113492187770175603",
+      "canonicalId": "2113492187770175603",
+      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex &amp; work. But yes… that’s a reset!",
+      "createdAt": "2026-10-23T04:46:19.000Z",
+      "url": "https://x.com/thsottiaux/status/2113492187770175603",
+      "media": [],
+      "detectedAt": "2026-10-29T08:50:44.498Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "But yes… that’s a reset!",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "But yes… that’s a reset!",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-10-29T08:50:44.503Z"
+    },
     {
       "version": "2417cdb9e6c0e6c4846af3702c3c24fb721ec4961912d951745e526999497bd1",
       "id": "2113162277688070445",
@@ -560,14 +734,65 @@
     "2113162277688070445": "2417cdb9e6c0e6c4846af3702c3c24fb721ec4961912d951745e526999497bd1",
     "2113162413008884099": "ac64cd14b4916c4387ab7d448ee3cf68d4dfc40b38cb3dadd3fdc913cee1a98d",
     "2113163458867032238": "b96faa0c618f38a1fec25fa5c7efd622263ccda78f6e9099c58c31b069753100",
-    "2113404560853397516": "094234bf77531732137280e460e1c03f684109c0a3d3a396593febeaa13af781"
+    "2113404560853397516": "094234bf77531732137280e460e1c03f684109c0a3d3a396593febeaa13af781",
+    "2113492187770175603": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
+    "2113492502355562875": "dc83e949362bda4b36c9cab5742979b45478f42b78cc5dda88dd3dd2219a368a",
+    "2113770573994299544": "bf703ca68b6b9c4d775e1c590d2e7939f7b30464140a7266912c18f49ea3cee6",
+    "2113770862860222611": "3e97cf1017c0fcdc8b1c57eb7edbd078d1c5a63536cd3a21f54fd7ad0771b003",
+    "2113771215433392478": "34fc728815b9f0ec36360230a3f6abc635b527f78b21a5af70543288a9ff6795",
+    "2113838156193894447": "05dc0fb389d15d4ff59fdd7b233eaa00727e301a3a05a8d02897277fc69796eb",
+    "2114030784625647855": "d1e9efb0ffdb5f1a864e647a828a7cd63029d9c5532e7154e80dc1b5bbff2d18",
+    "2114037527598576003": "d48c46ed0bb6aee4ed0101933f9e465c576ba6a7f7fd9bfacf76cd5f928ef983",
+    "2114073762895405067": "f972df5f7ea3233583ae808e9b491bc5d4a603a6663565fccce6528cb3955e9f",
+    "2114074317759938918": "070e8738423dec9246c4f08f0f3a644552d3e802eed942e5fbd45b6bb38056d0",
+    "2114074885622501706": "5521d1024877be88cfb239eae896fb336b880e5126613718f3feff18284f5578",
+    "2114086171907428846": "a342bb3b47c16b6ad528fcf765f7380babfc6ab3dcbf0d78adcb2b7dc5bf0fb8",
+    "2114125293124542632": "4b6e06913bca8be3b5cd30c5fcda1375c778886723d43936f116a16df1adff74",
+    "2114125878804545940": "1f762be636e3eb7e8159aabb200fd144b41700aa9c5193897142231b4f4201ec",
+    "2114199013176303641": "24ef83efe450d7b02ff9457cd244c707b5e90fcfc1ca7704c8f57f0a897dc902",
+    "2114200152701575656": "72f6ac530cb6d09cb0c957d3535c8768295542be3bfd44f88d1ecb0c18a872b4",
+    "2114200291319124163": "b8775d91a923e8d235a471cd4053c3cbb1e73ff22575f20b235b4e8d4ab61e2d",
+    "2114228044072403055": "b9d449b7729cd88e67ea3d4e502de24abc9b87cbe3e939a8b0ef8c3126c5ce58",
+    "2114228445043691592": "8dbf1139cc31522a4bec626bbb697beabd39584ef74f629e5728244acbf21f04",
+    "2114237083652882932": "e11088d05c6a6731b59c54c04e644b84ed599490b9fb9f3cac2646c3d90cffda",
+    "2114237441250828563": "95be22ce3395bad7c6df058728aa637d32831bf0793a0d3183ef566afb807461",
+    "2114365873049993364": "4498ccf874603559fbcb2ce2b64a8cd358c221869ed10a20354822876e1ae34e",
+    "2114435715605885396": "205beb0cedc09d77d05cdda348e3ca069830fcf8ed781b504d3692b0cf7bd991",
+    "2114435873857028129": "bdb4e613582a3a41c1a682d1ae36f2ca7b63b769e733a21a8127f8aeb4623777",
+    "2114588174249071102": "684703fff5bf0ff96aef635fdc05aac74b5ffbb3d960bb7653f5e4b04cc9f41b",
+    "2114588845874491691": "e977bb6b475d18acd7aeb39b8e31c709797d5d827300b407f659d321100ead94",
+    "2114595002210783279": "bf544ce34fc1e238e61acc579c040811c6752b90f07aaa33c3bb5b6e0ae7403c",
+    "2114598609245126731": "ef0392c1bfa6cb2286935cdbb382bb67e518aebd81eac2b6f4b8cb5da33cd093",
+    "2114598675930296518": "9e6d0a5ab6920465eaa6c1bdda004fca2656fd5fdb77dd8691472eefb07e944e",
+    "2114599388454481930": "0ed9171ef1a5ce3545afbab8a929e6404915691424944a6d484536d78e66c1e3",
+    "2114800277677092936": "1bf88207313e0d5f78647dbb937fcfa533caa2179ef322464f9cbbfd1d4416d2",
+    "2114839845604667840": "00e13f770ea457666f8eca1e583fb11e25a7974b1d1accac1841029f3999758f",
+    "2114922374978277786": "472c6c35b088a53861a2da98f07c8233774868924713f816f5642a0a784623e2",
+    "2115148258372964831": "279b88ab09bd67c0a117f18a57b542896019b3805a3cab9cdd78349f31e6ae53",
+    "2115272201922572627": "d7a4309e06bddd420c92a4d127581eb2aa07f6f4537af5140b30feb9b0d5b317",
+    "2115273064481218829": "81aa0416a461f3aedd751e42cca996b60e3af36c5e8c7e391f5ef7d01ce6ef61",
+    "2115273253711409208": "bf0b229980513092e3549a6e241b4525d80a4e9011cac8e18369e692eea6ba39",
+    "2115289940233961584": "ac8de13f52c7de95a14499503e527e73dba679b2634b4f38d08a061ff88ce0a4",
+    "2115290111147712544": "7c8fe1b3f1edd06e5a3e2bfa5d922bd8a020bac22257b5fa321431945183f8c7",
+    "2115290318652444729": "0c87bd85be53ee5000a3c41d6c930da61c8a92fc292fd5402f0e0c08dc164f98",
+    "2115297093879472332": "348086deaaffe04f05f1c0a578218034b844eb460382f98ff4aefd329144af15",
+    "2115299029294920189": "2300a59f4f3c3c0f9fc6be5ec044510f8e7283fa29269d014398d3b08291dfff",
+    "2115329600897319076": "4e6b929e8003b3b57c9219338c38897363ff63d2ddd5053334ee396b376d0a98",
+    "2115330127886463244": "c5e78a303d2682f0170b5276d1f2659c413a293537d86d3a8b0827105be040e1",
+    "2115473170279080149": "1cca13fe4b3a129ce7743b3f38a5844650e1417cbe05092029d7c2293d29c1b2",
+    "2115473280677363810": "03c3670bfd06f6211699a841c5ea9277061ada237a3850f986d4810c0a14f656",
+    "2115588390414581916": "114fb17887b7831d78ffc83f469f5f452463162654cfb2cbb291a0e5569fb19a",
+    "2115622002581188681": "3c9c86b377d54385c34f4b6323c16131f61e4541a9c3a63c6d26b9177e641357",
+    "2115648685069742441": "b4f67c3649e0fe237a45865c442520eb6c50b9b4872ff9222ae167d3cf1f8e93",
+    "2115648938149818370": "efa9253050c7572d56456578267faa086d329d702cf5c3348a0511704ce56c5f",
+    "2115649073302904875": "d8e2e9496e44860fd929f1e13659d0b8b84fbfdfb7143ea68105981aa2191f62"
   },
   "latestObservedPost": {
-    "id": "2113404560853397516",
-    "canonicalId": "2113404560853397516",
-    "text": "@romainhuet Very baguette of you",
-    "createdAt": "2026-10-22T22:58:07.000Z",
-    "url": "https://x.com/thsottiaux/status/2113404560853397516",
+    "id": "2115649073302904875",
+    "canonicalId": "2115649073302904875",
+    "text": "@rezoundous Low, but not zero",
+    "createdAt": "2026-10-29T03:37:00.000Z",
+    "url": "https://x.com/thsottiaux/status/2115649073302904875",
     "media": []
   },
   "eventParserVersion": 5
