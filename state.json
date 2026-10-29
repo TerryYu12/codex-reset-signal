@@ -4,15 +4,14 @@
   "keyword": "reset",
   "userId": "1953337039510003712",
   "sinceId": "2115649073302904875",
-  "lastCheckedAt": "2026-10-29T08:50:44.500Z",
-  "lastSuccessAt": "2026-10-29T08:50:44.500Z",
-  "lastRunStatus": "checked-51-posts",
+  "lastCheckedAt": "2026-10-29T08:52:09.471Z",
+  "lastSuccessAt": "2026-10-29T08:52:09.471Z",
+  "lastRunStatus": "checked-0-posts",
   "postsScanned": 192,
   "matches": [
     {
       "version": "81aa0416a461f3aedd751e42cca996b60e3af36c5e8c7e391f5ef7d01ce6ef61",
       "id": "2115273064481218829",
-      "canonicalId": "2115273064481218829",
       "text": "Day 23/ Much requested iCloud Main &amp; Calendar plugins. Just kidding, today is a reset. Still much requested though!",
       "createdAt": "2026-10-28T02:42:53.000Z",
       "url": "https://x.com/thsottiaux/status/2115273064481218829",
@@ -32,16 +31,15 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-29T08:50:50.428Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-10-29T08:50:50.428Z"
+      ]
     },
     {
       "version": "0ed9171ef1a5ce3545afbab8a929e6404915691424944a6d484536d78e66c1e3",
       "id": "2114599388454481930",
-      "canonicalId": "2114599388454481930",
       "text": "@larsencc @bot Not enough resets",
       "createdAt": "2026-10-26T06:05:56.000Z",
       "url": "https://x.com/thsottiaux/status/2114599388454481930",
@@ -61,16 +59,15 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-29T08:50:49.273Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-10-29T08:50:49.273Z"
+      ]
     },
     {
       "version": "684703fff5bf0ff96aef635fdc05aac74b5ffbb3d960bb7653f5e4b04cc9f41b",
       "id": "2114588174249071102",
-      "canonicalId": "2114588174249071102",
       "text": "Day 21/ Wonder what happens the remaining seven days. But today is a reset.",
       "createdAt": "2026-10-26T05:21:22.000Z",
       "url": "https://x.com/thsottiaux/status/2114588174249071102",
@@ -90,16 +87,15 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-29T08:50:48.145Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-10-29T08:50:48.145Z"
+      ]
     },
     {
       "version": "b9d449b7729cd88e67ea3d4e502de24abc9b87cbe3e939a8b0ef8c3126c5ce58",
       "id": "2114228044072403055",
-      "canonicalId": "2114228044072403055",
       "text": "@theo Not a real improvement, put the reset in the bag",
       "createdAt": "2026-10-25T05:30:20.000Z",
       "url": "https://x.com/thsottiaux/status/2114228044072403055",
@@ -119,16 +115,15 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-29T08:50:46.943Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-10-29T08:50:46.943Z"
+      ]
     },
     {
       "version": "72f6ac530cb6d09cb0c957d3535c8768295542be3bfd44f88d1ecb0c18a872b4",
       "id": "2114200152701575656",
-      "canonicalId": "2114200152701575656",
       "text": "Day 20/ Rest and reset",
       "createdAt": "2026-10-25T03:39:31.000Z",
       "url": "https://x.com/thsottiaux/status/2114200152701575656",
@@ -148,16 +143,15 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-29T08:50:45.766Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-10-29T08:50:45.766Z"
+      ]
     },
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
       "id": "2113492187770175603",
-      "canonicalId": "2113492187770175603",
       "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex &amp; work. But yes… that’s a reset!",
       "createdAt": "2026-10-23T04:46:19.000Z",
       "url": "https://x.com/thsottiaux/status/2113492187770175603",
@@ -177,11 +171,11 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-29T08:50:44.503Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-10-29T08:50:44.503Z"
+      ]
     },
     {
       "version": "2417cdb9e6c0e6c4846af3702c3c24fb721ec4961912d951745e526999497bd1",
