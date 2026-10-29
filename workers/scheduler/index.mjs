@@ -74,6 +74,21 @@ async function dispatchMonitor(env) {
 }
 
 export default {
+  async fetch(request, env) {
+    try {
+      await dispatchMonitor(env);
+      return new Response(
+        JSON.stringify({ ok: true, message: "Monitor workflow dispatched successfully" }),
+        { headers: { "Content-Type": "application/json" } },
+      );
+    } catch (err) {
+      return new Response(
+        JSON.stringify({ ok: false, error: err.message }),
+        { status: 500, headers: { "Content-Type": "application/json" } },
+      );
+    }
+  },
+
   async scheduled(controller, env) {
     console.log(
       JSON.stringify({
