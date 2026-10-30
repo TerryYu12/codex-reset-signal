@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T05:33:16.340Z",
+  "updatedAt": "2026-10-30T05:48:14.400Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-30T05:33:16.322Z",
-    "lastSuccessAt": "2026-10-30T05:33:16.322Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-30T05:48:14.396Z",
+    "lastSuccessAt": "2026-10-30T05:48:14.396Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2115974268936712436",
-    "text": "@ajambrosino You merge, I split",
-    "url": "https://x.com/thsottiaux/status/2115974268936712436",
-    "postCreatedAt": "2026-10-30T01:09:13.000Z"
+    "id": "2116044153515815186",
+    "text": "@janus_of_DC Hi brother 👋",
+    "url": "https://x.com/thsottiaux/status/2116044153515815186",
+    "postCreatedAt": "2026-10-30T05:46:55.000Z"
   },
   "latest": {
     "reset": {
