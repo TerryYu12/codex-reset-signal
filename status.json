@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T00:33:11.548Z",
+  "updatedAt": "2026-11-01T00:48:12.709Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-01T00:33:11.544Z",
-    "lastSuccessAt": "2026-11-01T00:33:11.544Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-01T00:48:12.597Z",
+    "lastSuccessAt": "2026-11-01T00:48:12.597Z",
+    "lastRunStatus": "checked-3-posts"
   },
   "latestObservedPost": {
-    "id": "2116408135930069347",
-    "text": "@theo You had me at Codex",
-    "url": "https://x.com/thsottiaux/status/2116408135930069347",
-    "postCreatedAt": "2026-10-31T05:53:15.000Z"
+    "id": "2116692827459747906",
+    "text": "@yacineMTB ?!",
+    "url": "https://x.com/thsottiaux/status/2116692827459747906",
+    "postCreatedAt": "2026-11-01T00:44:30.000Z"
   },
   "latest": {
     "reset": {
