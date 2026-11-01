@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T16:48:11.411Z",
+  "updatedAt": "2026-11-01T17:03:13.490Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-01T16:48:11.407Z",
-    "lastSuccessAt": "2026-11-01T16:48:11.407Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-01T17:03:13.485Z",
+    "lastSuccessAt": "2026-11-01T17:03:13.485Z",
+    "lastRunStatus": "checked-5-posts"
   },
   "latestObservedPost": {
-    "id": "2116692827459747906",
-    "text": "@yacineMTB ?!",
-    "url": "https://x.com/thsottiaux/status/2116692827459747906",
-    "postCreatedAt": "2026-11-01T00:44:30.000Z"
+    "id": "2116936205623611781",
+    "text": "My dog just patched that bug we couldn’t find for two weeks. Clever dog",
+    "url": "https://x.com/thsottiaux/status/2116936205623611781",
+    "postCreatedAt": "2026-11-01T16:51:36.000Z"
   },
   "latest": {
     "reset": {
