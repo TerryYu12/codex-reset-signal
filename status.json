@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T21:03:13.125Z",
+  "updatedAt": "2026-11-02T21:18:26.700Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-02T21:03:13.120Z",
-    "lastSuccessAt": "2026-11-02T21:03:13.120Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-02T21:18:26.696Z",
+    "lastSuccessAt": "2026-11-02T21:18:26.696Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2117283355427495983",
-    "text": "Your dot will choose the best model for the task, drawing on different models for different parts of the work.",
-    "url": "https://x.com/thsottiaux/status/2117283355427495983",
-    "postCreatedAt": "2026-11-02T15:51:03.000Z"
+    "id": "2117364233210151160",
+    "text": "@jxnlco Always been a fan",
+    "url": "https://x.com/thsottiaux/status/2117364233210151160",
+    "postCreatedAt": "2026-11-02T21:12:26.000Z"
   },
   "latest": {
     "reset": {
