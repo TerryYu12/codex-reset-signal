@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T06:33:14.439Z",
+  "updatedAt": "2026-11-03T06:48:16.565Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-03T06:33:14.434Z",
-    "lastSuccessAt": "2026-11-03T06:33:14.434Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-03T06:48:16.562Z",
+    "lastSuccessAt": "2026-11-03T06:48:16.562Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2117489367417803042",
-    "text": "Le GPT Fat",
-    "url": "https://x.com/thsottiaux/status/2117489367417803042",
-    "postCreatedAt": "2026-11-03T05:29:40.000Z"
+    "id": "2117506709417795626",
+    "text": "@_aidan_clark_ twitter really",
+    "url": "https://x.com/thsottiaux/status/2117506709417795626",
+    "postCreatedAt": "2026-11-03T06:38:35.000Z"
   },
   "latest": {
     "reset": {
