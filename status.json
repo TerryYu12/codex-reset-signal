@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T00:18:13.798Z",
+  "updatedAt": "2026-11-03T00:33:12.812Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-03T00:18:13.793Z",
-    "lastSuccessAt": "2026-11-03T00:18:13.793Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-03T00:33:12.808Z",
+    "lastSuccessAt": "2026-11-03T00:33:12.808Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2117364233210151160",
-    "text": "@jxnlco Always been a fan",
-    "url": "https://x.com/thsottiaux/status/2117364233210151160",
-    "postCreatedAt": "2026-11-02T21:12:26.000Z"
+    "id": "2117412956950638872",
+    "text": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team",
+    "url": "https://x.com/thsottiaux/status/2117412956950638872",
+    "postCreatedAt": "2026-11-03T00:26:03.000Z"
   },
   "latest": {
     "reset": {
