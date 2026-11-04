@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T06:33:18.445Z",
+  "updatedAt": "2026-11-04T06:48:13.675Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-04T06:33:18.440Z",
-    "lastSuccessAt": "2026-11-04T06:33:18.440Z",
+    "lastCheckedAt": "2026-11-04T06:48:13.669Z",
+    "lastSuccessAt": "2026-11-04T06:48:13.669Z",
     "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2117865198040355067",
-    "text": "@ajambrosino Please make the model better, it doesn’t yet do everything",
-    "url": "https://x.com/thsottiaux/status/2117865198040355067",
-    "postCreatedAt": "2026-11-04T06:23:05.000Z"
+    "id": "2117868812657971442",
+    "text": "@hiarun02 It’s 50X",
+    "url": "https://x.com/thsottiaux/status/2117868812657971442",
+    "postCreatedAt": "2026-11-04T06:37:27.000Z"
   },
   "latest": {
     "reset": {
