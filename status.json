@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T07:48:16.509Z",
+  "updatedAt": "2026-11-04T08:03:13.981Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-04T07:48:16.504Z",
-    "lastSuccessAt": "2026-11-04T07:48:16.504Z",
-    "lastRunStatus": "checked-2-posts"
+    "lastCheckedAt": "2026-11-04T08:03:13.975Z",
+    "lastSuccessAt": "2026-11-04T08:03:13.975Z",
+    "lastRunStatus": "checked-3-posts"
   },
   "latestObservedPost": {
-    "id": "2117884611640668212",
-    "text": "@evadne Which event was this?",
-    "url": "https://x.com/thsottiaux/status/2117884611640668212",
-    "postCreatedAt": "2026-11-04T07:40:14.000Z"
+    "id": "2117889346426823037",
+    "text": "@haydenfield Asked chat and it confirmed the story",
+    "url": "https://x.com/thsottiaux/status/2117889346426823037",
+    "postCreatedAt": "2026-11-04T07:59:03.000Z"
   },
   "latest": {
     "reset": {
