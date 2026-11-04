@@ -117,8 +117,24 @@ jobs:
           # Authenticate only these Git operations, never dependency installation.
           auth_header="AUTHORIZATION: basic $(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)"
           echo "::add-mask::$auth_header"
-          git -c http.https://github.com/.extraheader="$auth_header" pull --rebase origin monitor-state
-          git -c http.https://github.com/.extraheader="$auth_header" push origin HEAD:monitor-state
+          pushed=false
+          for attempt in 1 2 3 4; do
+            git rebase --abort 2>/dev/null || true
+            if git -c http.https://github.com/.extraheader="$auth_header" pull --rebase origin monitor-state && \
+               git -c http.https://github.com/.extraheader="$auth_header" push origin HEAD:monitor-state; then
+              pushed=true
+              break
+            fi
+            if [ "$attempt" -lt 4 ]; then
+              delay=$((attempt * 5))
+              echo "::warning::Git push to monitor-state failed (attempt $attempt/4). Retrying in ${delay}s..."
+              sleep "$delay"
+            fi
+          done
+          if [ "$pushed" != "true" ]; then
+            echo "::error::Failed to push monitor runtime state after 4 attempts."
+            exit 1
+          fi
       - name: Keep recovery checkpoint if runtime persistence failed
         if: failure() && steps.persist.outcome == 'failure'
         uses: actions/upload-artifact@v4
