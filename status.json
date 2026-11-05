@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T01:03:14.147Z",
+  "updatedAt": "2026-11-05T01:18:23.584Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-05T01:03:14.142Z",
-    "lastSuccessAt": "2026-11-05T01:03:14.142Z",
-    "lastRunStatus": "checked-3-posts"
+    "lastCheckedAt": "2026-11-05T01:18:23.580Z",
+    "lastSuccessAt": "2026-11-05T01:18:23.580Z",
+    "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2118147019030335666",
-    "text": "@thdxr Was surprised that you acquired @theo",
-    "url": "https://x.com/thsottiaux/status/2118147019030335666",
-    "postCreatedAt": "2026-11-05T01:02:57.000Z"
+    "id": "2118147545931374976",
+    "text": "@fly3nn @grok Reports of my retirement have been greatly exaggerated",
+    "url": "https://x.com/thsottiaux/status/2118147545931374976",
+    "postCreatedAt": "2026-11-05T01:05:02.000Z"
   },
   "latest": {
     "reset": {
