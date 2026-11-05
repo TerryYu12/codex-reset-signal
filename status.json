@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T00:48:21.271Z",
+  "updatedAt": "2026-11-05T01:03:14.147Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-05T00:48:21.213Z",
-    "lastSuccessAt": "2026-11-05T00:48:21.213Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-05T01:03:14.142Z",
+    "lastSuccessAt": "2026-11-05T01:03:14.142Z",
+    "lastRunStatus": "checked-3-posts"
   },
   "latestObservedPost": {
-    "id": "2118139067636568305",
-    "text": "@_samirism Dots just got a massive set of improvements",
-    "url": "https://x.com/thsottiaux/status/2118139067636568305",
-    "postCreatedAt": "2026-11-05T00:31:21.000Z"
+    "id": "2118147019030335666",
+    "text": "@thdxr Was surprised that you acquired @theo",
+    "url": "https://x.com/thsottiaux/status/2118147019030335666",
+    "postCreatedAt": "2026-11-05T01:02:57.000Z"
   },
   "latest": {
     "reset": {

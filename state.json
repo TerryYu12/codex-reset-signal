@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2118139067636568305",
-  "lastCheckedAt": "2026-11-05T00:48:21.213Z",
-  "lastSuccessAt": "2026-11-05T00:48:21.213Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 241,
+  "sinceId": "2118147019030335666",
+  "lastCheckedAt": "2026-11-05T01:03:14.142Z",
+  "lastSuccessAt": "2026-11-05T01:03:14.142Z",
+  "lastRunStatus": "checked-3-posts",
+  "postsScanned": 244,
   "matches": [
     {
       "version": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663",
@@ -832,14 +832,17 @@
     "2118024737070957009": "dbb0c0a48eb47d8407afa2b2b45f268de815e0ef184c06802e79d569d312beb6",
     "2118138648214585591": "bc190c75806fa5d5d71a61a7fde9cd02767ddf90c46f1f2226b18174ab693a86",
     "2118138764161913278": "add86f4be4ff31c94f0d9b26d4673b470fa8c7c48bc0994d624464c06c78f6fb",
-    "2118139067636568305": "6d93a73e508e7f485f8f73abdf26c785fd42e2ee039a3daeadbeddd39c786c5f"
+    "2118139067636568305": "6d93a73e508e7f485f8f73abdf26c785fd42e2ee039a3daeadbeddd39c786c5f",
+    "2118146794362405231": "e99370cbb4e351f1ccb7dfca0a320a3c48da2fc751fce4e6bfa90efdd10f2c99",
+    "2118146834325733453": "7170fc0bc23c620d8bc7e378494bac28c084e047a323a9f26cc052dc8c51782b",
+    "2118147019030335666": "d516a357d8a301866e0e972f00615a642c5b241f389d4eab790fb3da1184d665"
   },
   "latestObservedPost": {
-    "id": "2118139067636568305",
-    "canonicalId": "2118139067636568305",
-    "text": "@_samirism Dots just got a massive set of improvements",
-    "createdAt": "2026-11-05T00:31:21.000Z",
-    "url": "https://x.com/thsottiaux/status/2118139067636568305",
+    "id": "2118147019030335666",
+    "canonicalId": "2118147019030335666",
+    "text": "@thdxr Was surprised that you acquired @theo",
+    "createdAt": "2026-11-05T01:02:57.000Z",
+    "url": "https://x.com/thsottiaux/status/2118147019030335666",
     "media": []
   },
   "eventParserVersion": 5
