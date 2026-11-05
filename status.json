@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T02:03:13.711Z",
+  "updatedAt": "2026-11-05T02:18:13.903Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-05T02:03:13.706Z",
-    "lastSuccessAt": "2026-11-05T02:03:13.706Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-05T02:18:13.898Z",
+    "lastSuccessAt": "2026-11-05T02:18:13.898Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2118147545931374976",
-    "text": "@fly3nn @grok Reports of my retirement have been greatly exaggerated",
-    "url": "https://x.com/thsottiaux/status/2118147545931374976",
-    "postCreatedAt": "2026-11-05T01:05:02.000Z"
+    "id": "2118165504955494695",
+    "text": "@jonoalford We needed the eyeballs",
+    "url": "https://x.com/thsottiaux/status/2118165504955494695",
+    "postCreatedAt": "2026-11-05T02:16:24.000Z"
   },
   "latest": {
     "reset": {

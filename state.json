@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2118147545931374976",
-  "lastCheckedAt": "2026-11-05T02:03:13.706Z",
-  "lastSuccessAt": "2026-11-05T02:03:13.706Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 246,
+  "sinceId": "2118165504955494695",
+  "lastCheckedAt": "2026-11-05T02:18:13.898Z",
+  "lastSuccessAt": "2026-11-05T02:18:13.898Z",
+  "lastRunStatus": "checked-1-posts",
+  "postsScanned": 247,
   "matches": [
     {
       "version": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663",
@@ -837,14 +837,15 @@
     "2118146834325733453": "7170fc0bc23c620d8bc7e378494bac28c084e047a323a9f26cc052dc8c51782b",
     "2118147019030335666": "d516a357d8a301866e0e972f00615a642c5b241f389d4eab790fb3da1184d665",
     "2118147091155529874": "62734b96854afe3fc8256817a7e78fc555641732f4da15d3cabbe0eb029f17fe",
-    "2118147545931374976": "ccd7bdf6817fe20f7db88a5cc2ea155cffed1acc812f0170d2b5853b5b8bc0b8"
+    "2118147545931374976": "ccd7bdf6817fe20f7db88a5cc2ea155cffed1acc812f0170d2b5853b5b8bc0b8",
+    "2118165504955494695": "703ad6fee61abed6265edf9c6e41ab8b54a2f7787f7ec5b18400df978a54ce56"
   },
   "latestObservedPost": {
-    "id": "2118147545931374976",
-    "canonicalId": "2118147545931374976",
-    "text": "@fly3nn @grok Reports of my retirement have been greatly exaggerated",
-    "createdAt": "2026-11-05T01:05:02.000Z",
-    "url": "https://x.com/thsottiaux/status/2118147545931374976",
+    "id": "2118165504955494695",
+    "canonicalId": "2118165504955494695",
+    "text": "@jonoalford We needed the eyeballs",
+    "createdAt": "2026-11-05T02:16:24.000Z",
+    "url": "https://x.com/thsottiaux/status/2118165504955494695",
     "media": []
   },
   "eventParserVersion": 5
