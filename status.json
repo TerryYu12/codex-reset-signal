@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T07:48:14.346Z",
+  "updatedAt": "2026-11-05T08:03:15.974Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-05T07:48:14.341Z",
-    "lastSuccessAt": "2026-11-05T07:48:14.341Z",
-    "lastRunStatus": "checked-1-posts"
+    "lastCheckedAt": "2026-11-05T08:03:15.969Z",
+    "lastSuccessAt": "2026-11-05T08:03:15.969Z",
+    "lastRunStatus": "checked-5-posts"
   },
   "latestObservedPost": {
-    "id": "2118248900381536740",
-    "text": "Privilege to work alongside so many amazing people who won’t rest until we materialize a better future.",
-    "url": "https://x.com/thsottiaux/status/2118248900381536740",
-    "postCreatedAt": "2026-11-05T07:47:47.000Z"
+    "id": "2118252192536973501",
+    "text": "@helloitsaustin @OpenAI Welcome sir",
+    "url": "https://x.com/thsottiaux/status/2118252192536973501",
+    "postCreatedAt": "2026-11-05T08:00:52.000Z"
   },
   "latest": {
     "reset": {

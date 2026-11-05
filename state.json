@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2118248900381536740",
-  "lastCheckedAt": "2026-11-05T07:48:14.341Z",
-  "lastSuccessAt": "2026-11-05T07:48:14.341Z",
-  "lastRunStatus": "checked-1-posts",
-  "postsScanned": 248,
+  "sinceId": "2118252192536973501",
+  "lastCheckedAt": "2026-11-05T08:03:15.969Z",
+  "lastSuccessAt": "2026-11-05T08:03:15.969Z",
+  "lastRunStatus": "checked-5-posts",
+  "postsScanned": 253,
   "matches": [
     {
       "version": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663",
@@ -839,14 +839,19 @@
     "2118147091155529874": "62734b96854afe3fc8256817a7e78fc555641732f4da15d3cabbe0eb029f17fe",
     "2118147545931374976": "ccd7bdf6817fe20f7db88a5cc2ea155cffed1acc812f0170d2b5853b5b8bc0b8",
     "2118165504955494695": "703ad6fee61abed6265edf9c6e41ab8b54a2f7787f7ec5b18400df978a54ce56",
-    "2118248900381536740": "53a4b7d7fb5b19a80f458689ca4424df9f297976211415513707bc143adfcb34"
+    "2118248900381536740": "53a4b7d7fb5b19a80f458689ca4424df9f297976211415513707bc143adfcb34",
+    "2118249806875533399": "a00fc5d0b30d2f4f1975548a6ef5bba0455e73d2b7564a8b29368094161455a7",
+    "2118250462092914736": "e61869310fe54677be32af7b0fc6c46e14ed4deb11300786073b6915ca8a828d",
+    "2118250631165300747": "5847aa6b3b9d6ad3b759fb8b890fad36ab93684ea7b8311909294f861f88ed27",
+    "2118251848297783385": "3bd0576e3c3d2de8c8093083f0ffc120c06aeb47804cede8fb68540217230a41",
+    "2118252192536973501": "6e3051d725b013d1699acff829cd46402de2e83e2943842f848ce09317e80c6b"
   },
   "latestObservedPost": {
-    "id": "2118248900381536740",
-    "canonicalId": "2118248900381536740",
-    "text": "Privilege to work alongside so many amazing people who won’t rest until we materialize a better future.",
-    "createdAt": "2026-11-05T07:47:47.000Z",
-    "url": "https://x.com/thsottiaux/status/2118248900381536740",
+    "id": "2118252192536973501",
+    "canonicalId": "2118252192536973501",
+    "text": "@helloitsaustin @OpenAI Welcome sir",
+    "createdAt": "2026-11-05T08:00:52.000Z",
+    "url": "https://x.com/thsottiaux/status/2118252192536973501",
     "media": []
   },
   "eventParserVersion": 5
