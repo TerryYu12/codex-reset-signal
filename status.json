@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T22:18:11.673Z",
+  "updatedAt": "2026-11-05T22:33:13.890Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-05T22:18:11.669Z",
-    "lastSuccessAt": "2026-11-05T22:18:11.669Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-05T22:33:13.879Z",
+    "lastSuccessAt": "2026-11-05T22:33:13.879Z",
+    "lastRunStatus": "checked-3-posts"
   },
   "latestObservedPost": {
-    "id": "2118444105969926407",
-    "text": "Come push the frontier of fluffiness",
-    "url": "https://x.com/thsottiaux/status/2118444105969926407",
-    "postCreatedAt": "2026-11-05T20:43:28.000Z"
+    "id": "2118470016127598724",
+    "text": "If I count well, that's more than 500M images per day.",
+    "url": "https://x.com/thsottiaux/status/2118470016127598724",
+    "postCreatedAt": "2026-11-05T22:26:25.000Z"
   },
   "latest": {
     "reset": {
