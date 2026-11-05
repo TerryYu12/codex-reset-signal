@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2118376946652557613",
-  "lastCheckedAt": "2026-11-05T17:48:12.577Z",
-  "lastSuccessAt": "2026-11-05T17:48:12.577Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 257,
+  "sinceId": "2118402103907655903",
+  "lastCheckedAt": "2026-11-05T18:03:15.856Z",
+  "lastSuccessAt": "2026-11-05T18:03:15.856Z",
+  "lastRunStatus": "checked-2-posts",
+  "postsScanned": 259,
   "matches": [
     {
       "version": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663",
@@ -848,14 +848,16 @@
     "2118253609272177047": "01f90f451a5d21ce8688c46dbfa31da2aa4fa9dba6fc59ae4d35703c9e2c5b85",
     "2118254289894445278": "8291f0aed4c1d5f7808b2dbfe5603d52ecdeb4d48eab73a151ef632cb03db26b",
     "2118255144836161582": "c29421d4c09ac0e3126b3ea72f57c739c4756f11b1a48764c62317681c2457dc",
-    "2118376946652557613": "e1624794dc06315d016915ed1859f76bc4e0f7958baf9e8dcd0d43659dff61f6"
+    "2118376946652557613": "e1624794dc06315d016915ed1859f76bc4e0f7958baf9e8dcd0d43659dff61f6",
+    "2118401691032973416": "fbd1646195ba988874754a06bfca27f907861fae1fae9e3946b5a5977b8df4b1",
+    "2118402103907655903": "431e7d052b31a5f74878abe7021886cfecd9db8d8fbed40adc9e2885b6f1cea4"
   },
   "latestObservedPost": {
-    "id": "2118376946652557613",
-    "canonicalId": "2118376946652557613",
-    "text": "@ohayou792 Who comes up with these haha. Dane Starbuck. Haha",
-    "createdAt": "2026-11-05T16:16:36.000Z",
-    "url": "https://x.com/thsottiaux/status/2118376946652557613",
+    "id": "2118402103907655903",
+    "canonicalId": "2118402103907655903",
+    "text": "Our latest cyber-specialized model is out. It's in its own league on many cyber-specific use cases. Available through Daybreak Red access.",
+    "createdAt": "2026-11-05T17:56:34.000Z",
+    "url": "https://x.com/thsottiaux/status/2118402103907655903",
     "media": []
   },
   "eventParserVersion": 5
