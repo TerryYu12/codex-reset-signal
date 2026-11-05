@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T00:18:14.551Z",
+  "updatedAt": "2026-11-05T00:33:13.840Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-05T00:18:14.544Z",
-    "lastSuccessAt": "2026-11-05T00:18:14.544Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-05T00:33:13.837Z",
+    "lastSuccessAt": "2026-11-05T00:33:13.837Z",
+    "lastRunStatus": "checked-3-posts"
   },
   "latestObservedPost": {
-    "id": "2118024737070957009",
-    "text": "@AnikaCodes I was moved to the basement yesterday",
-    "url": "https://x.com/thsottiaux/status/2118024737070957009",
-    "postCreatedAt": "2026-11-04T16:57:02.000Z"
+    "id": "2118139067636568305",
+    "text": "@_samirism Dots just got a massive set of improvements",
+    "url": "https://x.com/thsottiaux/status/2118139067636568305",
+    "postCreatedAt": "2026-11-05T00:31:21.000Z"
   },
   "latest": {
     "reset": {

@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2118024737070957009",
-  "lastCheckedAt": "2026-11-05T00:18:14.544Z",
-  "lastSuccessAt": "2026-11-05T00:18:14.544Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 238,
+  "sinceId": "2118139067636568305",
+  "lastCheckedAt": "2026-11-05T00:33:13.837Z",
+  "lastSuccessAt": "2026-11-05T00:33:13.837Z",
+  "lastRunStatus": "checked-3-posts",
+  "postsScanned": 241,
   "matches": [
     {
       "version": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663",
@@ -829,14 +829,17 @@
     "2117889346426823037": "9a82cd9d7f8cc92f72ae45a4b015bd5f6a5aba236e1e17c7ca9b83cfebf67716",
     "2118024169762029594": "7dada5ffd0a298352bc496a4531e30d9d2642af13c3cff016e1f03fbc9d85a4c",
     "2118024484594803084": "ef506fe0badc3b544d25e57ae8b3b2464fd17b17503d7723cfcbe68dd7b5657f",
-    "2118024737070957009": "dbb0c0a48eb47d8407afa2b2b45f268de815e0ef184c06802e79d569d312beb6"
+    "2118024737070957009": "dbb0c0a48eb47d8407afa2b2b45f268de815e0ef184c06802e79d569d312beb6",
+    "2118138648214585591": "bc190c75806fa5d5d71a61a7fde9cd02767ddf90c46f1f2226b18174ab693a86",
+    "2118138764161913278": "add86f4be4ff31c94f0d9b26d4673b470fa8c7c48bc0994d624464c06c78f6fb",
+    "2118139067636568305": "6d93a73e508e7f485f8f73abdf26c785fd42e2ee039a3daeadbeddd39c786c5f"
   },
   "latestObservedPost": {
-    "id": "2118024737070957009",
-    "canonicalId": "2118024737070957009",
-    "text": "@AnikaCodes I was moved to the basement yesterday",
-    "createdAt": "2026-11-04T16:57:02.000Z",
-    "url": "https://x.com/thsottiaux/status/2118024737070957009",
+    "id": "2118139067636568305",
+    "canonicalId": "2118139067636568305",
+    "text": "@_samirism Dots just got a massive set of improvements",
+    "createdAt": "2026-11-05T00:31:21.000Z",
+    "url": "https://x.com/thsottiaux/status/2118139067636568305",
     "media": []
   },
   "eventParserVersion": 5
