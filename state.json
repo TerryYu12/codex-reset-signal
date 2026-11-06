@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2118569441860723112",
-  "lastCheckedAt": "2026-11-06T05:03:12.759Z",
-  "lastSuccessAt": "2026-11-06T05:03:12.759Z",
-  "lastRunStatus": "checked-4-posts",
-  "postsScanned": 269,
+  "sinceId": "2118572184679710964",
+  "lastCheckedAt": "2026-11-06T05:18:14.313Z",
+  "lastSuccessAt": "2026-11-06T05:18:14.313Z",
+  "lastRunStatus": "checked-2-posts",
+  "postsScanned": 271,
   "matches": [
     {
       "version": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663",
@@ -860,14 +860,16 @@
     "2118567451596300778": "61f53f4a95c0cb1714e596c3647ca3c26d50586320def8a659522e6485c4c213",
     "2118567894309306654": "9194d52c52208504513bca230eb8b0304f6f9092fd50f966cd7eb2376893bd43",
     "2118569235953893573": "0affc47d68c68d566ab9ffa5cb7daeca6a7a4855f14f251154b0cb61c54fca76",
-    "2118569441860723112": "80b25f54cb2ed0bfe28d66f1ff699f4a5518f274bd3bd0fcf6ce15f5bd151d5f"
+    "2118569441860723112": "80b25f54cb2ed0bfe28d66f1ff699f4a5518f274bd3bd0fcf6ce15f5bd151d5f",
+    "2118569868278796680": "c6f7ccd6fc51be685222da9119ec5e584c0ec79855f979971dba0b124eab6d51",
+    "2118572184679710964": "038abf61f8269b23c0cab1a7c5f7be8159f61ba353f3ed6866fb75102ceb1627"
   },
   "latestObservedPost": {
-    "id": "2118569441860723112",
-    "canonicalId": "2118569441860723112",
-    "text": "Formal proofs of tens of millions of lines of code are not a ridiculous thing anymore and within the realm of what should be considered when designing new systems.",
-    "createdAt": "2026-11-06T05:01:30.000Z",
-    "url": "https://x.com/thsottiaux/status/2118569441860723112",
+    "id": "2118572184679710964",
+    "canonicalId": "2118572184679710964",
+    "text": "@ajambrosino @pablostanley Feedback is a gift",
+    "createdAt": "2026-11-06T05:12:24.000Z",
+    "url": "https://x.com/thsottiaux/status/2118572184679710964",
     "media": []
   },
   "eventParserVersion": 5
