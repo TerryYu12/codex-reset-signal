@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T04:48:11.967Z",
+  "updatedAt": "2026-11-06T05:03:12.769Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-06T04:48:11.963Z",
-    "lastSuccessAt": "2026-11-06T04:48:11.963Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-06T05:03:12.759Z",
+    "lastSuccessAt": "2026-11-06T05:03:12.759Z",
+    "lastRunStatus": "checked-4-posts"
   },
   "latestObservedPost": {
-    "id": "2118473288368406582",
-    "text": "Generating*",
-    "url": "https://x.com/thsottiaux/status/2118473288368406582",
-    "postCreatedAt": "2026-11-05T22:39:25.000Z"
+    "id": "2118569441860723112",
+    "text": "Formal proofs of tens of millions of lines of code are not a ridiculous thing anymore and within the realm of what should be considered when designing new systems.",
+    "url": "https://x.com/thsottiaux/status/2118569441860723112",
+    "postCreatedAt": "2026-11-06T05:01:30.000Z"
   },
   "latest": {
     "reset": {
