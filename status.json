@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T23:18:11.136Z",
+  "updatedAt": "2026-11-07T23:33:11.031Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-07T23:18:11.133Z",
-    "lastSuccessAt": "2026-11-07T23:18:11.133Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-07T23:33:11.027Z",
+    "lastSuccessAt": "2026-11-07T23:33:11.027Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2119161246872429013",
-    "text": "@AdamHoltererer What's the before, after?",
-    "url": "https://x.com/thsottiaux/status/2119161246872429013",
-    "postCreatedAt": "2026-11-07T20:13:08.000Z"
+    "id": "2119211022410228094",
+    "text": "@jxnlco I think that will take a few years, but one can dream",
+    "url": "https://x.com/thsottiaux/status/2119211022410228094",
+    "postCreatedAt": "2026-11-07T23:30:55.000Z"
   },
   "latest": {
     "reset": {
