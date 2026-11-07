@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T06:18:11.657Z",
+  "updatedAt": "2026-11-07T06:33:12.689Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-07T06:18:11.654Z",
-    "lastSuccessAt": "2026-11-07T06:18:11.654Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-07T06:33:12.684Z",
+    "lastSuccessAt": "2026-11-07T06:33:12.684Z",
+    "lastRunStatus": "checked-5-posts"
   },
   "latestObservedPost": {
-    "id": "2118944211169063121",
-    "text": "@thorstenball Odd, the y axis is flipped ?",
-    "url": "https://x.com/thsottiaux/status/2118944211169063121",
-    "postCreatedAt": "2026-11-07T05:50:42.000Z"
+    "id": "2118953661820977315",
+    "text": "@theo Also, you really died 25 times? 😭",
+    "url": "https://x.com/thsottiaux/status/2118953661820977315",
+    "postCreatedAt": "2026-11-07T06:28:15.000Z"
   },
   "latest": {
     "reset": {
