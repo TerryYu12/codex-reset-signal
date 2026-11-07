@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2118874107341389982",
-  "lastCheckedAt": "2026-11-07T04:33:11.844Z",
-  "lastSuccessAt": "2026-11-07T04:33:11.844Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 276,
+  "sinceId": "2118927736031047850",
+  "lastCheckedAt": "2026-11-07T04:48:12.366Z",
+  "lastSuccessAt": "2026-11-07T04:48:12.366Z",
+  "lastRunStatus": "checked-1-posts",
+  "postsScanned": 277,
   "matches": [
     {
       "version": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663",
@@ -867,14 +867,15 @@
     "2118802796749508830": "08e2d1c76aa7d6960503b3aa8739310e15493ca39dc72b11855c6ffbc25e51d0",
     "2118802895604994463": "2c3f54ea8d61725ca4dd9eee127ad30e4b2cc1bf1852e0a545dd8072fc36cce3",
     "2118871902366441879": "a8c0d655bc16ddc70e0f5380da2e992e7a09853343906b1e2364525e4fe1d8ec",
-    "2118874107341389982": "441b5cafc91c97f6d6ab591644ad18a5b63c4d79e100c24412d9f8a3a023dce5"
+    "2118874107341389982": "441b5cafc91c97f6d6ab591644ad18a5b63c4d79e100c24412d9f8a3a023dce5",
+    "2118927736031047850": "4b8b994a85b25fe07ef2c070033be4b02b8ad98bed118b3bd0f42cc33e801b54"
   },
   "latestObservedPost": {
-    "id": "2118874107341389982",
-    "canonicalId": "2118874107341389982",
-    "text": "@ritu_twts Love that you immediately picked up and answered all my questions on how you use dots",
-    "createdAt": "2026-11-07T01:12:08.000Z",
-    "url": "https://x.com/thsottiaux/status/2118874107341389982",
+    "id": "2118927736031047850",
+    "canonicalId": "2118927736031047850",
+    "text": "@jkelleyrtp Do it",
+    "createdAt": "2026-11-07T04:45:14.000Z",
+    "url": "https://x.com/thsottiaux/status/2118927736031047850",
     "media": []
   },
   "eventParserVersion": 5

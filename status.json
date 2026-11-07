@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T04:33:11.848Z",
+  "updatedAt": "2026-11-07T04:48:12.370Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-07T04:33:11.844Z",
-    "lastSuccessAt": "2026-11-07T04:33:11.844Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-07T04:48:12.366Z",
+    "lastSuccessAt": "2026-11-07T04:48:12.366Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2118874107341389982",
-    "text": "@ritu_twts Love that you immediately picked up and answered all my questions on how you use dots",
-    "url": "https://x.com/thsottiaux/status/2118874107341389982",
-    "postCreatedAt": "2026-11-07T01:12:08.000Z"
+    "id": "2118927736031047850",
+    "text": "@jkelleyrtp Do it",
+    "url": "https://x.com/thsottiaux/status/2118927736031047850",
+    "postCreatedAt": "2026-11-07T04:45:14.000Z"
   },
   "latest": {
     "reset": {
