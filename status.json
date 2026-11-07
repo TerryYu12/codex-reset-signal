@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T05:18:12.067Z",
+  "updatedAt": "2026-11-07T05:33:14.482Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-07T05:18:12.063Z",
-    "lastSuccessAt": "2026-11-07T05:18:12.063Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-07T05:33:14.477Z",
+    "lastSuccessAt": "2026-11-07T05:33:14.477Z",
+    "lastRunStatus": "checked-3-posts"
   },
   "latestObservedPost": {
-    "id": "2118931941907165401",
-    "text": "@johnsavage_ai Savage, John",
-    "url": "https://x.com/thsottiaux/status/2118931941907165401",
-    "postCreatedAt": "2026-11-07T05:01:57.000Z"
+    "id": "2118939076791546000",
+    "text": "Quite cool what you can do with a single prompt these days 👀",
+    "url": "https://x.com/thsottiaux/status/2118939076791546000",
+    "postCreatedAt": "2026-11-07T05:30:18.000Z"
   },
   "latest": {
     "reset": {
