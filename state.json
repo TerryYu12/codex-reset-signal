@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2119294044480401585",
-  "lastCheckedAt": "2026-11-08T05:03:14.527Z",
-  "lastSuccessAt": "2026-11-08T05:03:14.527Z",
-  "lastRunStatus": "checked-2-posts",
-  "postsScanned": 296,
+  "sinceId": "2119296267545419987",
+  "lastCheckedAt": "2026-11-08T05:18:13.483Z",
+  "lastSuccessAt": "2026-11-08T05:18:13.483Z",
+  "lastRunStatus": "checked-1-posts",
+  "postsScanned": 297,
   "matches": [
     {
       "version": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663",
@@ -887,14 +887,15 @@
     "2119211022410228094": "f9377e02659713e34d7909918591505b72f8642ce0361204eb4c47c01976dafd",
     "2119232059537514598": "0910a26233b931206f4624471418614e0ffb408671916a7887abd5209b223e25",
     "2119293235353006321": "6ecf44302274bfa89da4c70708e04617b4a0b74204496e888ad11f80d3267edd",
-    "2119294044480401585": "1fe79fd58fd142579549cdda0ea91341d5288960e3c50b678cc5b2407d458231"
+    "2119294044480401585": "1fe79fd58fd142579549cdda0ea91341d5288960e3c50b678cc5b2407d458231",
+    "2119296267545419987": "a242c712cbc15ff33b7853538989a65b688993c810effbcfb9cb8f5a2b21d1c8"
   },
   "latestObservedPost": {
-    "id": "2119294044480401585",
-    "canonicalId": "2119294044480401585",
-    "text": "@JamesMalsawm Yes, but I am also very fond of this little x bubble",
-    "createdAt": "2026-11-08T05:00:49.000Z",
-    "url": "https://x.com/thsottiaux/status/2119294044480401585",
+    "id": "2119296267545419987",
+    "canonicalId": "2119296267545419987",
+    "text": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
+    "createdAt": "2026-11-08T05:09:39.000Z",
+    "url": "https://x.com/thsottiaux/status/2119296267545419987",
     "media": []
   },
   "eventParserVersion": 5
