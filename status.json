@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T05:33:12.460Z",
+  "updatedAt": "2026-11-08T05:48:19.657Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-08T05:33:12.372Z",
-    "lastSuccessAt": "2026-11-08T05:33:12.372Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-08T05:48:19.652Z",
+    "lastSuccessAt": "2026-11-08T05:48:19.652Z",
+    "lastRunStatus": "checked-5-posts"
   },
   "latestObservedPost": {
-    "id": "2119296267545419987",
-    "text": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
-    "url": "https://x.com/thsottiaux/status/2119296267545419987",
-    "postCreatedAt": "2026-11-08T05:09:39.000Z"
+    "id": "2119305379100450928",
+    "text": "@JamesMalsawm They already did, come over",
+    "url": "https://x.com/thsottiaux/status/2119305379100450928",
+    "postCreatedAt": "2026-11-08T05:45:51.000Z"
   },
   "latest": {
     "reset": {

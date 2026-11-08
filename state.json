@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2119296267545419987",
-  "lastCheckedAt": "2026-11-08T05:33:12.372Z",
-  "lastSuccessAt": "2026-11-08T05:33:12.372Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 297,
+  "sinceId": "2119305379100450928",
+  "lastCheckedAt": "2026-11-08T05:48:19.652Z",
+  "lastSuccessAt": "2026-11-08T05:48:19.652Z",
+  "lastRunStatus": "checked-5-posts",
+  "postsScanned": 302,
   "matches": [
     {
       "version": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663",
@@ -888,14 +888,19 @@
     "2119232059537514598": "0910a26233b931206f4624471418614e0ffb408671916a7887abd5209b223e25",
     "2119293235353006321": "6ecf44302274bfa89da4c70708e04617b4a0b74204496e888ad11f80d3267edd",
     "2119294044480401585": "1fe79fd58fd142579549cdda0ea91341d5288960e3c50b678cc5b2407d458231",
-    "2119296267545419987": "a242c712cbc15ff33b7853538989a65b688993c810effbcfb9cb8f5a2b21d1c8"
+    "2119296267545419987": "a242c712cbc15ff33b7853538989a65b688993c810effbcfb9cb8f5a2b21d1c8",
+    "2119303444683255991": "27db6b76437e2df38dca524ef95dd2f2e6d973a903d766feed947b3339584492",
+    "2119304055126425939": "951e75fdef278beef074b370d46a48662e76b9d27260d77d2a49cc11958d89d7",
+    "2119304841873023158": "de970059a54690504414afe2928fe2e4b62a71cd35ee1ccf5ff84c17a1e82c76",
+    "2119305294291612140": "8a79c22146858a5e1b29614c2d247b5cf9e086e32dd21b4a98f6a4f1ddc54513",
+    "2119305379100450928": "c2c3f3ff8958c2752ca1cf91fcb76a6287f8161d1cf35b59b3e8549256935b31"
   },
   "latestObservedPost": {
-    "id": "2119296267545419987",
-    "canonicalId": "2119296267545419987",
-    "text": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
-    "createdAt": "2026-11-08T05:09:39.000Z",
-    "url": "https://x.com/thsottiaux/status/2119296267545419987",
+    "id": "2119305379100450928",
+    "canonicalId": "2119305379100450928",
+    "text": "@JamesMalsawm They already did, come over",
+    "createdAt": "2026-11-08T05:45:51.000Z",
+    "url": "https://x.com/thsottiaux/status/2119305379100450928",
     "media": []
   },
   "eventParserVersion": 5
