@@ -4,15 +4,14 @@
   "keyword": "reset",
   "userId": "1953337039510003712",
   "sinceId": "2119309070658318698",
-  "lastCheckedAt": "2026-11-08T06:03:11.892Z",
-  "lastSuccessAt": "2026-11-08T06:03:11.892Z",
-  "lastRunStatus": "checked-2-posts",
+  "lastCheckedAt": "2026-11-08T06:18:12.300Z",
+  "lastSuccessAt": "2026-11-08T06:18:12.300Z",
+  "lastRunStatus": "checked-0-posts",
   "postsScanned": 304,
   "matches": [
     {
       "version": "968ea4e2d85d2fccdde068e8c8c332ee6bf0c9be3748cd7bfc83a6b8dbfa8074",
       "id": "2119308687676432672",
-      "canonicalId": "2119308687676432672",
       "text": "@ForwardEditor We hesitated to embed https://t.co/TnRNoyTR5X into the codex app to make sense of the resets, but decided against it.",
       "createdAt": "2026-11-08T05:59:00.000Z",
       "url": "https://x.com/thsottiaux/status/2119308687676432672",
@@ -32,11 +31,11 @@
           }
         }
       ],
+      "notifiedAt": "2026-11-08T06:03:11.896Z",
       "channels": [
         "github-actions",
         "email"
-      ],
-      "notifiedAt": "2026-11-08T06:03:11.896Z"
+      ]
     },
     {
       "version": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663",
