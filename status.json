@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T04:48:15.137Z",
+  "updatedAt": "2026-11-08T05:03:14.531Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-08T04:48:15.134Z",
-    "lastSuccessAt": "2026-11-08T04:48:15.134Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-08T05:03:14.527Z",
+    "lastSuccessAt": "2026-11-08T05:03:14.527Z",
+    "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2119232059537514598",
-    "text": "@Tech_girl We doubled the usage on Pro plans and Business 100",
-    "url": "https://x.com/thsottiaux/status/2119232059537514598",
-    "postCreatedAt": "2026-11-08T00:54:31.000Z"
+    "id": "2119294044480401585",
+    "text": "@JamesMalsawm Yes, but I am also very fond of this little x bubble",
+    "url": "https://x.com/thsottiaux/status/2119294044480401585",
+    "postCreatedAt": "2026-11-08T05:00:49.000Z"
   },
   "latest": {
     "reset": {

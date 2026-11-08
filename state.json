@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2119232059537514598",
-  "lastCheckedAt": "2026-11-08T04:48:15.134Z",
-  "lastSuccessAt": "2026-11-08T04:48:15.134Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 294,
+  "sinceId": "2119294044480401585",
+  "lastCheckedAt": "2026-11-08T05:03:14.527Z",
+  "lastSuccessAt": "2026-11-08T05:03:14.527Z",
+  "lastRunStatus": "checked-2-posts",
+  "postsScanned": 296,
   "matches": [
     {
       "version": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663",
@@ -885,14 +885,16 @@
     "2119160727164604874": "7d4010a45e29be51aadaa5ef6828c1414f968b597b7ab1c0e6889409f636a3df",
     "2119161246872429013": "1c064b928924cfe81c59d2132bd4645f56f4be61fd7b2790bfe4f78b2c515509",
     "2119211022410228094": "f9377e02659713e34d7909918591505b72f8642ce0361204eb4c47c01976dafd",
-    "2119232059537514598": "0910a26233b931206f4624471418614e0ffb408671916a7887abd5209b223e25"
+    "2119232059537514598": "0910a26233b931206f4624471418614e0ffb408671916a7887abd5209b223e25",
+    "2119293235353006321": "6ecf44302274bfa89da4c70708e04617b4a0b74204496e888ad11f80d3267edd",
+    "2119294044480401585": "1fe79fd58fd142579549cdda0ea91341d5288960e3c50b678cc5b2407d458231"
   },
   "latestObservedPost": {
-    "id": "2119232059537514598",
-    "canonicalId": "2119232059537514598",
-    "text": "@Tech_girl We doubled the usage on Pro plans and Business 100",
-    "createdAt": "2026-11-08T00:54:31.000Z",
-    "url": "https://x.com/thsottiaux/status/2119232059537514598",
+    "id": "2119294044480401585",
+    "canonicalId": "2119294044480401585",
+    "text": "@JamesMalsawm Yes, but I am also very fond of this little x bubble",
+    "createdAt": "2026-11-08T05:00:49.000Z",
+    "url": "https://x.com/thsottiaux/status/2119294044480401585",
     "media": []
   },
   "eventParserVersion": 5
