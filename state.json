@@ -3,12 +3,41 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2119305379100450928",
-  "lastCheckedAt": "2026-11-08T05:48:19.652Z",
-  "lastSuccessAt": "2026-11-08T05:48:19.652Z",
-  "lastRunStatus": "checked-5-posts",
-  "postsScanned": 302,
+  "sinceId": "2119309070658318698",
+  "lastCheckedAt": "2026-11-08T06:03:11.892Z",
+  "lastSuccessAt": "2026-11-08T06:03:11.892Z",
+  "lastRunStatus": "checked-2-posts",
+  "postsScanned": 304,
   "matches": [
+    {
+      "version": "968ea4e2d85d2fccdde068e8c8c332ee6bf0c9be3748cd7bfc83a6b8dbfa8074",
+      "id": "2119308687676432672",
+      "canonicalId": "2119308687676432672",
+      "text": "@ForwardEditor We hesitated to embed https://t.co/TnRNoyTR5X into the codex app to make sense of the resets, but decided against it.",
+      "createdAt": "2026-11-08T05:59:00.000Z",
+      "url": "https://x.com/thsottiaux/status/2119308687676432672",
+      "media": [],
+      "detectedAt": "2026-11-08T06:03:11.892Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@ForwardEditor We hesitated to embed https://t.co/TnRNoyTR5X into the codex app to make sense of the resets, but decided against it",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@ForwardEditor We hesitated to embed https://t.co/TnRNoyTR5X into the codex app to make sense of the resets, but decided against it",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions",
+        "email"
+      ],
+      "notifiedAt": "2026-11-08T06:03:11.896Z"
+    },
     {
       "version": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663",
       "id": "2116942192497533418",
@@ -560,34 +589,6 @@
         "github-actions",
         "email"
       ]
-    },
-    {
-      "version": "275b46f975c69285658a1df2115587cb1c7f9d972ad251252b4809955f2079b0",
-      "id": "2109132167112782291",
-      "text": "Put the reset in the bag. All propagated.",
-      "createdAt": "2026-10-11T04:01:09.000Z",
-      "url": "https://x.com/thsottiaux/status/2109132167112782291",
-      "media": [],
-      "detectedAt": "2026-10-11T07:26:21.795Z",
-      "events": [
-        {
-          "type": "reset",
-          "status": "announced",
-          "evidence": "Put the reset in the bag",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Put the reset in the bag",
-            "note": "原文没有可确定的时间"
-          }
-        }
-      ],
-      "notifiedAt": "2026-10-11T07:26:21.799Z",
-      "channels": [
-        "github-actions",
-        "email"
-      ]
     }
   ],
   "outbox": [],
@@ -893,14 +894,16 @@
     "2119304055126425939": "951e75fdef278beef074b370d46a48662e76b9d27260d77d2a49cc11958d89d7",
     "2119304841873023158": "de970059a54690504414afe2928fe2e4b62a71cd35ee1ccf5ff84c17a1e82c76",
     "2119305294291612140": "8a79c22146858a5e1b29614c2d247b5cf9e086e32dd21b4a98f6a4f1ddc54513",
-    "2119305379100450928": "c2c3f3ff8958c2752ca1cf91fcb76a6287f8161d1cf35b59b3e8549256935b31"
+    "2119305379100450928": "c2c3f3ff8958c2752ca1cf91fcb76a6287f8161d1cf35b59b3e8549256935b31",
+    "2119308687676432672": "968ea4e2d85d2fccdde068e8c8c332ee6bf0c9be3748cd7bfc83a6b8dbfa8074",
+    "2119309070658318698": "d8ef0e6c6eda079386f56be8a18afac7363e384c3abf8487114b0085b83e3073"
   },
   "latestObservedPost": {
-    "id": "2119305379100450928",
-    "canonicalId": "2119305379100450928",
-    "text": "@JamesMalsawm They already did, come over",
-    "createdAt": "2026-11-08T05:45:51.000Z",
-    "url": "https://x.com/thsottiaux/status/2119305379100450928",
+    "id": "2119309070658318698",
+    "canonicalId": "2119309070658318698",
+    "text": "@alexmichael @claudeai @bot @Meta @OpenAI Alfred plays to win",
+    "createdAt": "2026-11-08T06:00:31.000Z",
+    "url": "https://x.com/thsottiaux/status/2119309070658318698",
     "media": []
   },
   "eventParserVersion": 5
