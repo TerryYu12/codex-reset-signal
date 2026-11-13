@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2121062974161092792",
-  "lastCheckedAt": "2026-11-13T06:33:11.884Z",
-  "lastSuccessAt": "2026-11-13T06:33:11.884Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 320,
+  "sinceId": "2121132369696747608",
+  "lastCheckedAt": "2026-11-13T06:48:12.076Z",
+  "lastSuccessAt": "2026-11-13T06:48:12.076Z",
+  "lastRunStatus": "checked-2-posts",
+  "postsScanned": 322,
   "matches": [
     {
       "version": "2732b43e8f7002afa5ee3d3720a66a3370014efcbf52871d64eb02dd4dffeafb",
@@ -911,14 +911,16 @@
     "2120621485442339277": "c799859d296bbf3849c12f5141a98225ae70b286615e30ddf2b4a4bcdf292f0f",
     "2120999993079451919": "2732b43e8f7002afa5ee3d3720a66a3370014efcbf52871d64eb02dd4dffeafb",
     "2121036562058400200": "ec245e36cc102b2232cc4a4ac0027bad560c07ac48d455c1d0ef3e194a1fa84e",
-    "2121062974161092792": "6419e4de5344490efeefee15b42626793651b44277235a3b5f4ae9c6d7b3dc1b"
+    "2121062974161092792": "6419e4de5344490efeefee15b42626793651b44277235a3b5f4ae9c6d7b3dc1b",
+    "2121132035653894561": "92e0768eedb4122f3573985089c78d223d471994521b06e73ff26ce99022dc9c",
+    "2121132369696747608": "4bd1f5987cf5054ad496bb35c4a86b49870eeeb78ec09d6b649d1647e3ebd5af"
   },
   "latestObservedPost": {
-    "id": "2121062974161092792",
-    "canonicalId": "2121062974161092792",
-    "text": "How can codex be improved? Try not to say model.",
-    "createdAt": "2026-11-13T02:09:55.000Z",
-    "url": "https://x.com/thsottiaux/status/2121062974161092792",
+    "id": "2121132369696747608",
+    "canonicalId": "2121132369696747608",
+    "text": "@snowy_smile_ Sounds like bliss",
+    "createdAt": "2026-11-13T06:45:40.000Z",
+    "url": "https://x.com/thsottiaux/status/2121132369696747608",
     "media": []
   },
   "eventParserVersion": 5
